@@ -28,7 +28,8 @@ The Watson Developer Cloud (WDC) is a collection of cogntive services hosted on 
 - **[Watson Discovery Service](https://console.ng.bluemix.net/catalog/services/discovery/)** - which is used to answer "long tail" questions, catalog knowledge and information, and retrieve relevant documents.  
 
 ### References for Further Reading
-- [Bluemix tutorial](https://console.ng.bluemix.net/docs/admin/adminpublic.html)
+- [Bluemix tutorial](https://console.ng.bluemix.net/docs/admin/adminpublic.html) - A simple getting started tutorial
+- [Cloud Architecture Center](https://www.ibm.com/devops/method/category/architectures?cm_mc_uid=59482719098114889125842&cm_mc_sid_50200000=1488912584) - basic architecture concepts and patterns for Cloud and Cognitive development.
 
 ---
 # Watson Services and APIs
