@@ -112,7 +112,7 @@ None
 xxx
 
 ### References for Further Reading
-None
+- [Full Cycle Cognitive Development (4 part series)](https://dtoczala.wordpress.com/2017/02/02/full-cycle-cognitive-development-part-1-business-concepts/) - A series by D. Toczala on the concerns, tools, and strategies for doing Cognitive development, from ideation through build and maintenance.
 
 ## Testing Approaches and Methods
 xxx
