@@ -41,9 +41,16 @@ The following section will focus on the various Watson services and API's, provi
 
 ## Conversation
 xxx
+The tool used to "develop" the Conversation service consists of three parts.  The first part deals with user intents.  
 
 ### References for Further Reading
-None
+**Intents**
+
+**Entities**
+
+**Dialog**
+- [Recursive Questions with Conversations](https://ollycox.me/2016/10/21/recursive-questions-with-ibm-watson-conversations/) - a quick post showing how to disambiguate user utterances, without driving the end user crazy.
+- [Pattern for Gathering Information with Conversation](https://ollycox.me/2016/11/18/pattern-for-gathering-information-in-ibm-watson-conversations/) - an example (with code) of gathering multiple pieces of information in a Conversation flow.
 
 ## Discovery
 xxx
