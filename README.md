@@ -131,7 +131,7 @@ There are some very real security implications that you will have to consider wh
   - **Answer:** PHI (Personal Health Information) data should NOT be handled by Watson Developer Cloud services. PII (Personally Identifiable Information), on the other hand may be okay to send to Watson Developer Cloud services. WDC services do not save any data if the user opts-out. If that is NOT sufficient, then the customer has the responsibility of any required de-identifying before sending the data to the Watson services. In certain emergency scenarios, deletion of PII data may be done by IBM team but this is handled on a case-by-case basis (contact Watson Security for any such needs).
 
 ### References for Further Reading
-- **[WDC Security Overview](https://www.ibm.com/watson/assets/pdfs/Watson_Developer_Cloud_Security_Overview_October-2016.pdf)** - a PDF with a general overview of security topics when using Watson services
+- **[WDC Security Overview](https://www.ibm.com/watson/assets/pdfs/Watson_Developer_Cloud_Security_Overview_October-2016.pdf)** - a PDF with a general overview of security topics when using Watson services (published October 2016)
 
 ---
 # Common Tips and Tricks
