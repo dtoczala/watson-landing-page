@@ -18,6 +18,8 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [The Importance of Data](https://github.com/dtoczala/watson-landing-page#the-importance-of-data)
   - [DevOps with Cognitive on Bluemix](https://github.com/dtoczala/watson-landing-page#devops-with-cognitive-on-bluemix)
   - [Testing Approaches and Methods](https://github.com/dtoczala/watson-landing-page#testing-approaches-and-methods)
+- **[Common Tips and Tricks]()**
+  - [Bluemix Tips and Tricks]()
 
 ---
 # Introduction - Getting Started
@@ -121,3 +123,12 @@ When looking at testing Cognitive systems, we run into issues that are new to so
 ### References for Further Reading
 - [Andrew Freed Blogs](https://developer.ibm.com/watson/blog/author/afreed/) - Andrew has done some thinking about cognitive testing, his blog posts will give you some insight into solid testing approaches.
 - [Cognitive Quality Assurance \- An Introduction](https://brainsteam.co.uk/2016/03/29/cognitive-quality-assurance-an-introduction/) and [Cognitive Quality Assurance \- Performance Metrics](https://brainsteam.co.uk/2016/05/29/cognitive-quality-assurance-pt-2-performance-metrics/) - both authored by James Ravenscroft, with some good advice and introduction to the concepts of accuracy, precision, recall, and confusion matrices.
+
+---
+# Common Tips and Tricks
+This section will cover some of the common tips and tricks used by cognitive develpment professionals, and covers some of those things that are not addressed in the documentation.
+
+- [Bluemix Tips and Tricks]()
+
+
+
