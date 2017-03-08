@@ -51,6 +51,7 @@ Once intents and entities are defined in the Conversation service, it is the thi
 
 ### References for Further Reading
 - [Conversation with Alchemy Entity Extraction](https://kozhayasite.wordpress.com/2016/08/27/watson-conversation-with-alchemy-entity-extraction/) - great overview of Conversation concepts, and how to integrate with other Watson capabilities.  Complete with a GitHub repo with sample code.
+
 **Intents**
 
 **Entities**
@@ -124,7 +125,7 @@ None
 Data is the lifeblood of any cognitive solution.  You need to be aware of the 
 
 ### References for Further Reading
-- {Data Considerations When Building a Cognitive Solution](https://kozhayasite.wordpress.com/2016/07/31/data-considerations-when-building-a-cognitive-solution/) - an overview of data considerations when working with Watson services.
+- [Data Considerations When Building a Cognitive Solution](https://kozhayasite.wordpress.com/2016/07/31/data-considerations-when-building-a-cognitive-solution/) - an overview of data considerations when working with Watson services.
 
 ## DevOps with Cognitive on Bluemix
 xxx
