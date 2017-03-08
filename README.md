@@ -34,16 +34,23 @@ The Watson Developer Cloud (WDC) is a collection of cogntive services hosted on 
 - [Bluemix tutorial](https://console.ng.bluemix.net/docs/admin/adminpublic.html) - A simple getting started tutorial
 - [Cloud Architecture Center](https://www.ibm.com/devops/method/category/architectures?cm_mc_uid=59482719098114889125842&cm_mc_sid_50200000=1488912584) - basic architecture concepts and patterns for Cloud and Cognitive development.
 - [Watson Cognitive Developer Certification Study Guide](https://github.com/havasnewyork/IBM-Watson-Developer-Certification-Study-Guide) - a nice guide on GitHub with a nice background on core cognitive principles and concepts.
+- [Watson Developer Blog](https://developer.ibm.com/watson/blog/) - don't be fooled by the title, most of the blog entries here are more along the lines of announcements of new capabilities available with Watson.  Some technical content here, but it's good to follow this to remain aware of the new things coming.
 
 ---
 # Watson Services and APIs
 The following section will focus on the various Watson services and API's, providing links to high quality technical content focused specifically on these services.
 
 ## Conversation
-xxx
-The tool used to "develop" the Conversation service consists of three parts.  The first part deals with user intents.  
+The Conversation service allows you to add a natural language interface to your application, to automate interactions with your end users. Common applications include virtual agents and chat bots that can integrate and communicate on any channel or device.  The [text message chatbot](https://www.ibm.com/watson/developercloud/starter-kits.html#text-message-chatbot) on the [Application Starter Kits (ASKs) page](https://www.ibm.com/watson/developercloud/starter-kits.html) is an excellent example of a chatbot application, with code and instructions on how to implement this on [IBM Bluemix](https://console.ng.bluemix.net/).
+
+The tooling used to "develop" the Conversation service consists of three parts.  The first part deals with user intents.  The purpose of intents is to map “what a user says” to “what a user means”. Because of the wide variety of utterances users say to mean the same intent, Watson Conversation leverages deep learning technology to extract intents from utterances. You, as the app developer, have complete control in defining what intents are relevant to your application. Once you’ve defined your list of intents, you need to teach Watson how to recognize these intents by providing it with sample utterances and how they map to these intents. Probably the most common question we get from developers is “how many sample utterances do I need to provide”. While the tool requires a minimum of five sample utterances, the general guideline is “the more the better”. We’ve typically seen good results with 20-30 sample utterances per intent. The key observation is to try and capture real end-user input utterances and then map those to the intents you’ve defined for your application.
+
+The second part handles Entities.  Entities provide specific information that your bot can leverage to provide most relevant response. For example, if the user’s utterance is “I would like to book a flight to Paris”, then the intent is “book_flight” and the entity is “Paris”. You, as the app developer, define the entities that are relevant for your application by providing a list of entity names and for each entity, a list of values and for each value a corresponding list of synonyms.
+
+Once intents and entities are defined in the Conversation service, it is the third part, called Dialog, that actually orchestrates the conversation based on extracted intents and entities, as well as context provided by the application. Context is an extremely important concept as it is the bridge that links the conversation service to your bot (or application). Any information communicated back and forth between the Conversation service and the bot goes across through the context variables. Dialog consists of a number of user defined nodes where each node executes based on whether its condition is true. Think of each node as an “if” condition where the condition checked is based on a combination of intents, entities, and context variables (or any derived variables). If the condition is true, then the node executes; if not, the flow continues to the next node in the dialog. Please note that the order of the nodes is important as the flow executes top to bottom, left to right.
 
 ### References for Further Reading
+- [Conversation with Alchemy Entity Extraction](https://kozhayasite.wordpress.com/2016/08/27/watson-conversation-with-alchemy-entity-extraction/) - great overview of Conversation concepts, and how to integrate with other Watson capabilities.  Complete with a GitHub repo with sample code.
 **Intents**
 
 **Entities**
@@ -114,10 +121,10 @@ None
 # Cognitive Development Topics
 
 ## The Importance of Data
-xxx
+Data is the lifeblood of any cognitive solution.  You need to be aware of the 
 
 ### References for Further Reading
-None
+- {Data Considerations When Building a Cognitive Solution](https://kozhayasite.wordpress.com/2016/07/31/data-considerations-when-building-a-cognitive-solution/) - an overview of data considerations when working with Watson services.
 
 ## DevOps with Cognitive on Bluemix
 xxx
