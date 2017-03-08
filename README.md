@@ -18,8 +18,8 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [The Importance of Data](https://github.com/dtoczala/watson-landing-page#the-importance-of-data)
   - [DevOps with Cognitive on Bluemix](https://github.com/dtoczala/watson-landing-page#devops-with-cognitive-on-bluemix)
   - [Testing Approaches and Methods](https://github.com/dtoczala/watson-landing-page#testing-approaches-and-methods)
-- **[Common Tips and Tricks]()**
-  - [Bluemix Tips and Tricks]()
+- **[Common Tips and Tricks](https://github.com/dtoczala/watson-landing-page#common-tips-and-tricks)**
+  - [Bluemix Tips and Tricks](docs/bluemix_tipstricks)
 
 ---
 # Introduction - Getting Started
@@ -128,7 +128,7 @@ When looking at testing Cognitive systems, we run into issues that are new to so
 # Common Tips and Tricks
 This section will cover some of the common tips and tricks used by cognitive develpment professionals, and covers some of those things that are not addressed in the documentation.
 
-- [Bluemix Tips and Tricks]()
+- [Bluemix Tips and Tricks](docs/bluemix_tipstricks)
 
 
 
