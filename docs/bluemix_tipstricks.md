@@ -5,3 +5,7 @@
   - **Resolution:**
     1. Submit a Bluemix support ticket to delete the trial account. Make sure that you understand that **any data in that trial account will be lost!**
     1. Even though the Bluemix trial account is deleted, you can still log into bluemix using your id and then work under the corporate Bluemix account.
+  - **Work Around:**
+    1. Log into Bluemix using your account
+    1. Close the pop-up message you get
+    1. On top of the Bluemix console, click on your account and switch to the account of your organization (which is validated with subscription or paygo).  You should be able to do this, since you can access that account.
