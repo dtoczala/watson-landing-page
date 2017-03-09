@@ -53,8 +53,11 @@ Once intents and entities are defined in the Conversation service, it is the thi
 - [Conversation with Alchemy Entity Extraction](https://kozhayasite.wordpress.com/2016/08/27/watson-conversation-with-alchemy-entity-extraction/) - great overview of Conversation concepts, and how to integrate with other Watson capabilities.  Complete with a GitHub repo with sample code.
 
 **Intents**
+- [Compund Questions](https://sodoherty.ai/2017/02/06/compound-questions/) - Nice article on a technique for detecting compound questions.
+- [Watson in the White and Black Room](https://sodoherty.ai/2017/02/10/watson-in-the-black-and-white-room/) - Quick article on understanding Watson cofidence scores.
 
 **Entities**
+- [Improving Your Intents with Entities](https://sodoherty.ai/2017/01/16/improving-your-intents-with-entities/) - an exploration of how intents and entities work together.
 
 **Dialog**
 - [Recursive Questions with Conversations](https://ollycox.me/2016/10/21/recursive-questions-with-ibm-watson-conversations/) - a quick post showing how to disambiguate user utterances, without driving the end user crazy.
@@ -113,11 +116,13 @@ None
 This section will cover some of the basic patterns and cognitive use cases that are implemented using the Watson services.
 
 ## Chatbots
-xx
+
+Chatbots are popular right now, and they can help serve a real purpose.  Many customers use them for customer care and customer support scenarios.  They have been integrated into a number of different communications channels, and they can often do the repetitive work associated with common customer questions and requests.
 
 ### References for Further Reading
-None
-
+- [Build a Wikipedia Factoid Bot](https://medium.com/@biosopher/wikipedia-factoid-bot-1-of-6-intro-and-configure-demo-code-884d6c2ac35e#.zex5raoru) - a six part series taking you through building a factoid bot based on [Wikipedia](https://www.wikipedia.org/), which also shows an integration with the Watson Alchemy service.
+- [Build a Chatbot That Cares](https://medium.com/ibm-watson-developer-cloud/build-a-chatbot-that-cares-part-1-d1c273e17a63#.h9ahlfoh1) - nice series on building an IOT chatbot using the Coversation, Tone Analyzer, Speech-to-Text and Text-to-Speech services.
+- [Build a Chatbot with Watson and Spoontacular](https://medium.com/ibm-watson-developer-cloud/how-to-build-a-recipe-slack-bot-using-watson-conversation-and-spoonacular-api-487eacaf01d4#.xxt6vwknl) - another chatbot tutorial that builds a chatbot using Watson Conversation and the Spoontacular API.
 ---
 # Cognitive Development Topics
 
@@ -126,6 +131,7 @@ Data is the lifeblood of any cognitive solution.  You need to be aware of the
 
 ### References for Further Reading
 - [Data Considerations When Building a Cognitive Solution](https://kozhayasite.wordpress.com/2016/07/31/data-considerations-when-building-a-cognitive-solution/) - an overview of data considerations when working with Watson services.
+- [Data Scientists and App Develpment](https://medium.com/cognitive-resonance/data-scientists-and-app-development-fde50ebb54de#.nz70d9ke0) - Anthony discusses the importance of data science in the building of cognitive applications, and he shares some ways to learn more about data science.
 
 ## DevOps with Cognitive on Bluemix
 xxx
