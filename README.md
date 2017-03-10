@@ -166,6 +166,13 @@ There are some very real security implications that you will have to consider wh
 - **[WDC Security Overview](https://www.ibm.com/watson/assets/pdfs/Watson_Developer_Cloud_Security_Overview_October-2016.pdf)** - a PDF with a general overview of security topics when using Watson services (published October 2016)
 
 ---
+# Code, Development Resources, and GitHub Repositories
+This section has a list of great places where you can see working code, find development resources, or GitHub repositories with useful content.
+
+- [Application Starter Kits (ASKs)](https://www.ibm.com/watson/developercloud/starter-kits.html) - great collection of common use cases, and code to go with them, which you can use and deploy on Bluemix to see how things work for yourself.
+- [Watson Developer Cloud (GitHub)](https://github.com/watson-developer-cloud) - this GitHub repository has commonly used SDK's (software development kits) and code for some interesting demos.
+
+---
 # Common Tips and Tricks
 This section will cover some of the common tips and tricks used by cognitive develpment professionals, and covers some of those things that are not addressed in the documentation.
 
