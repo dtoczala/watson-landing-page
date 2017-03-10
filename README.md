@@ -15,6 +15,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
 - **[Common Use Cases](https://github.com/dtoczala/watson-landing-page#common-use-cases)**
   - [Chatbots](https://github.com/dtoczala/watson-landing-page#chatbots)
 - **[Cognitive Development Topics](https://github.com/dtoczala/watson-landing-page#cognitive-development-topics)**
+  - [Cognitive Architectures](https://github.com/dtoczala/watson-landing-page#cognitive-architectures)
   - [The Importance of Data](https://github.com/dtoczala/watson-landing-page#the-importance-of-data)
   - [DevOps with Cognitive on Bluemix](https://github.com/dtoczala/watson-landing-page#devops-with-cognitive-on-bluemix)
   - [Testing Approaches and Methods](https://github.com/dtoczala/watson-landing-page#testing-approaches-and-methods)
