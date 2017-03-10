@@ -71,10 +71,15 @@ xxx
 None
 
 ## Alchemy API
-xxx
+The Alchemy API is being deprecated, and will not be available for the creation of new Alchemy instances on April 7, 2017.  Existing Alchemy API instances will remain functional until March 7, 2018.
+
+Users who utilized Alchemy Language in the past are now encouraged to use the [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page#natural-language-understanding-nlu) service.
+
+Users who utilized Alchemy Data News in the past are now encouraged to use the Watson [Discovery](https://github.com/dtoczala/watson-landing-page#discovery) service.
 
 ### References for Further Reading
-None
+- [How to Migrate from Alchemy Lanaguage to NLU](http://wdc-watson-master.stage1.mybluemix.net/doc/natural-language-understanding/migrating.html) - the official guide for migrating to the NLU service.
+- [How to Migrate from Alchemy Data News to Discovery](https://www.ibm.com/watson/developercloud/doc/discovery/migrate-adn.html) - the official guide for migrating to the Watson Discovery service.
 
 ## Natural Language Understanding (NLU)
 xxx
