@@ -107,10 +107,12 @@ xxx
 None
 
 ## Visual Recognition
-xxx
+The Visual Recognition API is used for vision services.
+
+Often when doing analysis of pictures, it is useful to "tile" the image, and break it down into smaller chunks.  See the link to the Visual Recognition Tile Localization tool, which is a KEY component for segmenting larger images into bite size pieces for Visual Recognition.
 
 ### References for Further Reading
-None
+- [Visual Recognition Tile Localization](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) - complete source code for visualizing localized results for a single class, within a single custom classifier using image preprocessing (tiling) techniques, and will run on Bluemix as-is.
 
 ---
 # Common Use Cases
