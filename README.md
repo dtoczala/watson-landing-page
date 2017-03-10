@@ -19,6 +19,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [DevOps with Cognitive on Bluemix](https://github.com/dtoczala/watson-landing-page#devops-with-cognitive-on-bluemix)
   - [Testing Approaches and Methods](https://github.com/dtoczala/watson-landing-page#testing-approaches-and-methods)
   - [Watson/Bluemix Security Concerns](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#watsonbluemix-security-concerns)
+- **[Code Development Resources and GitHub Repositories](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#code-development-resources-and-github-repositories)**
 - **[Common Tips and Tricks](https://github.com/dtoczala/watson-landing-page#common-tips-and-tricks)**
   - [Bluemix Tips and Tricks](docs/bluemix_tipstricks.md)
 
