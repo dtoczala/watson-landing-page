@@ -136,6 +136,12 @@ Chatbots are popular right now, and they can help serve a real purpose.  Many cu
 ---
 # Cognitive Development Topics
 
+## Cognitive Architectures
+Cognitive architectures are not that different from the architectures for applications that you are familiar with.  They just use cognitive capabilities and components that may behave somewhat differently than a more "classical" software component.  You also need to take into account the need for _training_ in your maintenance of a cognitive solution, which adds a new wrinkle to how you architect a cognitive application.
+
+### References for Further Reading
+- [Common Cognitive Architectures](https://www.ibm.com/devops/method/content/architecture/cognitiveArchitecture) - taken from the IBM Cloud Garage Method, this set of architectures makes a good starting point for architects new to the building of cognitive solutions.
+
 ## The Importance of Data
 Data is the lifeblood of any cognitive solution.  You need to be aware of the 
 
