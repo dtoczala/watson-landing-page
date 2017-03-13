@@ -144,7 +144,7 @@ Cognitive architectures are not that different from the architectures for applic
 - [Common Cognitive Architectures](https://www.ibm.com/devops/method/content/architecture/cognitiveArchitecture) - taken from the IBM Cloud Garage Method, this set of architectures makes a good starting point for architects new to the building of cognitive solutions.
 
 ## The Importance of Data
-Data is the lifeblood of any cognitive solution.  You need to be aware of the 
+Data is the lifeblood of any cognitive solution.  You need to be aware of [the common challenges that you will face](http://freedville.com/blog/2017/03/05/machine-learning-is-just-the-tip-of-the-iceberg-5-dangers-lurking-below-the-surface/) when working with the data that powers your cognitive solution.  The training processes used with cognitive systems is iterative, and the management of the data to do this training is an ongoing concern.  It's part of the common maintenance that is needed for a truly cognitive system.
 
 ### References for Further Reading
 - [Why Does Machine Learning Require So Much Data](http://freedville.com/blog/2016/12/15/why-does-machine-learning-require-so-much-training-data/) - Great look at why you need so much data, and a veiled reference to [Malcoim Gladwell's 10000 hour rule](http://gladwell.com/outliers/the-10000-hour-rule/).
