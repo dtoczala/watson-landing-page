@@ -99,7 +99,7 @@ None
 xxx
 
 ### References for Further Reading
-None
+- [IBM STT Model Hits New Milestone](https://www.ibm.com/blogs/watson/2017/03/reaching-new-records-in-speech-recognition/) - no technical information here, but an overview of how STT is done, and how IBM continues to improve it's speech recognition models.
 
 ## Tone Analyzer
 xxx
