@@ -38,6 +38,7 @@ The Watson Developer Cloud (WDC) is a collection of cogntive services hosted on 
 - [Watson Cognitive Developer Certification Study Guide](https://github.com/havasnewyork/IBM-Watson-Developer-Certification-Study-Guide) - a nice guide on GitHub with a nice background on core cognitive principles and concepts.
 - [Watson Developer Blog](https://developer.ibm.com/watson/blog/) - don't be fooled by the title, most of the blog entries here are more along the lines of announcements of new capabilities available with Watson.  Some technical content here, but it's good to follow this to remain aware of the new things coming.
 - [Building With Watson](https://www.ibm.com/watson/building-with-watson-webinar.html) - source for a series of technical webcasts on a variety of different Watson and cognitive computing topics.
+- [IBM Watson - Where Do I Start?](https://joshicohen.wordpress.com/2016/11/08/ibm-watson-wdis/) - a quick blog post with links to good places to get started on your exploration of the Watson services and technology.
 
 **Tools**
 - [Bluemix Console Tool](http://myconsole.mybluemix.net/\#/dashboard) - Cool tool deployed on Bluemix that will show you all of your Bluemix services, spaces, applications, and organizations.
@@ -72,6 +73,9 @@ Once intents and entities are defined in the Conversation service, it is the thi
 **Integration**
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services. 
 
+**Code**
+- [Simple Conversation App](https://github.com/watson-developer-cloud/conversation-simple) - A simple sample Node.js app that uses conversation to power to car dashboard.
+
 ## Discovery
 xxx
 
@@ -104,12 +108,19 @@ xxx
 ### References for Further Reading
 None
 
+**Code**
+- [Personality Insights with Twitter](https://github.com/watson-developer-cloud/personality-insights-twitter-python) - This sample shows how to get Twitter data using the Twitter REST API (via the python-twitter client library) and submit it to the Personality Insights Service.
+
 ## Speech to Text and Text to Speech (STT/TTS)
 xxx
 
 ### References for Further Reading
 - [IBM STT Model Hits New Milestone](https://www.ibm.com/blogs/watson/2017/03/reaching-new-records-in-speech-recognition/) - no technical information here, but an overview of how STT is done, and how IBM continues to improve it's speech recognition models.
 - [Introducing Diarization](https://www.ibm.com/blogs/watson/2016/12/look-whos-talking-ibm-debuts-watson-speech-text-speaker-diarization-beta/) - announcement of the "diarization" capability in STT that allows you to differentiate between different speakers in an audio passage.
+
+**Code**
+- [Simple Node.js STT App](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - A simple starter app in Node.js that utilizes the Speech to Text service.
+- [Simple Python/WebSockets STT App](https://github.com/watson-developer-cloud/speech-to-text-websockets-python) - A simple starter app in Python, using WebSockets, that utilizes the Speech to Text service.
 
 ## Tone Analyzer
 xxx
@@ -131,6 +142,8 @@ Often when doing analysis of pictures, it is useful to "tile" the image, and bre
 ### References for Further Reading
 - [Visual Recognition Tile Localization](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) - complete source code for visualizing localized results for a single class, within a single custom classifier using image preprocessing (tiling) techniques, and will run on Bluemix as-is.
 
+**Code**
+- [Visual Recgnition with ASP.NET](https://github.com/watson-developer-cloud/visual-recognition-aspnet) - Simple starter application in ASP.NET which uses the IBM Watson Visual Recognition service.
 ---
 # Common Use Cases
 This section will cover some of the basic patterns and cognitive use cases that are implemented using the Watson services.
