@@ -9,3 +9,7 @@
     1. Log into Bluemix using your account
     1. Close the pop-up message you get
     1. On top of the Bluemix console, click on your account and switch to the account of your organization (which is validated with subscription or paygo).  You should be able to do this, since you can access that account.
+
+- You are looking for a nice way to discover all of your Bluemix orgs, spaces, and applications.
+  - **Resolution:**
+    1. Use the [Bluemix Console Tool](http://myconsole.mybluemix.net/\#/dashboard).  It is a tool deployed on Bluemix that will show you all of your Bluemix services, spaces, applications, and organizations.
