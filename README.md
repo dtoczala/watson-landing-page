@@ -39,6 +39,9 @@ The Watson Developer Cloud (WDC) is a collection of cogntive services hosted on 
 - [Watson Developer Blog](https://developer.ibm.com/watson/blog/) - don't be fooled by the title, most of the blog entries here are more along the lines of announcements of new capabilities available with Watson.  Some technical content here, but it's good to follow this to remain aware of the new things coming.
 - [Building With Watson](https://www.ibm.com/watson/building-with-watson-webinar.html) - source for a series of technical webcasts on a variety of different Watson and cognitive computing topics.
 
+**Tools**
+- [Bluemix Console Tool](http://myconsole.mybluemix.net/\#/dashboard) - Cool tool deployed on Bluemix that will show you all of your Bluemix services, spaces, applications, and organizations.
+
 ---
 # Watson Services and APIs
 The following section will focus on the various Watson services and API's, providing links to high quality technical content focused specifically on these services.
