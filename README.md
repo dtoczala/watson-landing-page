@@ -15,6 +15,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [Visual Recognition](https://github.com/dtoczala/watson-landing-page#visual-recognition)
 - **[Common Use Cases](https://github.com/dtoczala/watson-landing-page#common-use-cases)**
   - [Chatbots](https://github.com/dtoczala/watson-landing-page#chatbots)
+  - [Customer Care](https://github.com/dtoczala/watson-landing-page#customer-care)
 - **[Cognitive Development Topics](https://github.com/dtoczala/watson-landing-page#cognitive-development-topics)**
   - [Cognitive Architectures](https://github.com/dtoczala/watson-landing-page#cognitive-architectures)
   - [The Importance of Data](https://github.com/dtoczala/watson-landing-page#the-importance-of-data)
@@ -174,6 +175,14 @@ This is another popular use case, where a cognitive agent is used to handle comm
 
 ---
 # Cognitive Development Topics
+
+This is a colection of various popular topics within the realm of cognitive development.
+
+## General Cognitive Development Information
+Cognitive development in general is not always a well understood topic.  Software development teams are unfamiliar with the changes to typical concerns and iterations that a cognitive development project will have.
+
+### References and Further Reading
+- [Building a Cognitive App in 70 days](https://developer.ibm.com/dwblog/2016/cognitive-solution-70-days-joe-kozhaya/) - An insider take on the critical factors involved in building a cognitive application (the [Watson Business Coach](https://www.ibm.com/cognitive/businesscoach/) ) in only 70 days.
 
 ## Cognitive Architectures
 Cognitive architectures are not that different from the architectures for applications that you are familiar with.  They just use cognitive capabilities and components that may behave somewhat differently than a more "classical" software component.  You also need to take into account the need for _training_ in your maintenance of a cognitive solution, which adds a new wrinkle to how you architect a cognitive application.
