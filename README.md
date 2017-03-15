@@ -40,6 +40,7 @@ The Watson Developer Cloud (WDC) is a collection of cogntive services hosted on 
 - [Cloud Architecture Center](https://www.ibm.com/devops/method/category/architectures?cm_mc_uid=59482719098114889125842&cm_mc_sid_50200000=1488912584) - basic architecture concepts and patterns for Cloud and Cognitive development.
 - [Watson Cognitive Developer Certification Study Guide](https://github.com/havasnewyork/IBM-Watson-Developer-Certification-Study-Guide) - a nice guide on GitHub with a nice background on core cognitive principles and concepts.
 - [Watson Developer Blog](https://developer.ibm.com/watson/blog/) - don't be fooled by the title, most of the blog entries here are more along the lines of announcements of new capabilities available with Watson.  Some technical content here, but it's good to follow this to remain aware of the new things coming.
+- [Watson Developer Handbook](https://ibm.ent.box.com/file/51752480029) - A PDF with links to important materials.
 - [Building With Watson](https://www.ibm.com/watson/building-with-watson-webinar.html) - source for a series of technical webcasts on a variety of different Watson and cognitive computing topics.
 - [IBM Watson - Where Do I Start?](https://joshicohen.wordpress.com/2016/11/08/ibm-watson-wdis/) - a quick blog post with links to good places to get started on your exploration of the Watson services and technology.
 
@@ -103,6 +104,7 @@ Users who utilized Alchemy Data News in the past are now encouraged to use the W
 The Retrieve and Rank service allows you to build a corpus of information, and then search that corpus to retrieve documents based on a trained ranker that evaluates the appropriateness of the document to the question being asked.
 
 ### References for Further Reading
+- [R\&R Handbook](https://ibm.ent.box.com/file/53750516365) - A PDF with guidance, links to materials and code, and best practices for Retrieve and Rank.
 - [Developing with Retrieve and Rank](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-1-solr-configuration-29c18e52966f\#.8hzg11tqp) - a three part series onhow to use Retrieve and Rank. [Part 1 covers SOLR configuration](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-1-solr-configuration-29c18e52966f\#.8hzg11tqp), [Part 2 covers training and configuration](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-2-training-and-evaluation-fda57efff5c8\#.h2wwsnail), and [Part 3 covers custom features](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-3-custom-features-826fe88a5c63\#.bc4h7k5oi).
 
 ## Natural Language Understanding (NLU)
@@ -111,11 +113,17 @@ xxx
 ### References for Further Reading
 None
 
+## Natural Language Classifier (NLC)
+xxx
+
+### References for Further Reading
+- [NLC Handbook](https://ibm.ent.box.com/file/53025315153) - A PDF with guidance, links to materials and code, and best practices for Natural Language Classifier.
+
 ## Personality Insights
 xxx
 
 ### References for Further Reading
-None
+- [Personality Insights Handbook](https://ibm.ent.box.com/file/51752480029) - A PDF with guidance, links to materials and code, and best practices for Personality Insights.
 
 **Code**
 - [Personality Insights with Twitter](https://github.com/watson-developer-cloud/personality-insights-twitter-python) - This sample shows how to get Twitter data using the Twitter REST API (via the python-twitter client library) and submit it to the Personality Insights Service.
