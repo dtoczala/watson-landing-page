@@ -8,6 +8,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [Alchemy API](https://github.com/dtoczala/watson-landing-page#alchemy-api)
   - [Retrieve and Rank](https://github.com/dtoczala/watson-landing-page#retrieve-and-rank)
   - [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page#natural-language-understanding-nlu)
+  - [Natural Language Classifier (NLC)](https://github.com/dtoczala/watson-landing-page#natural-language-classifier-nlc)
   - [Personality Insights](https://github.com/dtoczala/watson-landing-page#personality-insights)
   - [Speech to Text and Text to Speech (STT/TTS)](https://github.com/dtoczala/watson-landing-page#speech-to-text-and-text-to-speech-stttts)
   - [Tone Analyzer](https://github.com/dtoczala/watson-landing-page#tone-analyzer)
