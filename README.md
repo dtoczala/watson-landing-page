@@ -17,6 +17,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [Chatbots](https://github.com/dtoczala/watson-landing-page#chatbots)
   - [Customer Care](https://github.com/dtoczala/watson-landing-page#customer-care)
 - **[Cognitive Development Topics](https://github.com/dtoczala/watson-landing-page#cognitive-development-topics)**
+  - [General Cognitive Development Information](https://github.com/dtoczala/watson-landing-page#general-cognitive-development-information)
   - [Cognitive Architectures](https://github.com/dtoczala/watson-landing-page#cognitive-architectures)
   - [The Importance of Data](https://github.com/dtoczala/watson-landing-page#the-importance-of-data)
   - [DevOps with Cognitive on Bluemix](https://github.com/dtoczala/watson-landing-page#devops-with-cognitive-on-bluemix)
@@ -179,7 +180,7 @@ This is another popular use case, where a cognitive agent is used to handle comm
 This is a colection of various popular topics within the realm of cognitive development.
 
 ## General Cognitive Development Information
-Cognitive development in general is not always a well understood topic.  Software development teams are unfamiliar with the changes to typical concerns and iterations that a cognitive development project will have.
+Cognitive development in general is not always a well understood topic.  Software development teams are unfamiliar with the changes to typical concerns and iterations that a cognitive development project will have.  Teams often have incorrect expectations, and underestimate the importance of data, as well as the number of training iterations required to build a highly effective cognitive model.
 
 ### References and Further Reading
 - [Building a Cognitive App in 70 days](https://developer.ibm.com/dwblog/2016/cognitive-solution-70-days-joe-kozhaya/) - An insider take on the critical factors involved in building a cognitive application (the [Watson Business Coach](https://www.ibm.com/cognitive/businesscoach/) ) in only 70 days.
