@@ -96,6 +96,12 @@ Users who utilized Alchemy Data News in the past are now encouraged to use the W
 - [How to Migrate from Alchemy Lanaguage to NLU](http://wdc-watson-master.stage1.mybluemix.net/doc/natural-language-understanding/migrating.html) - the official guide for migrating to the NLU service.
 - [How to Migrate from Alchemy Data News to Discovery](https://www.ibm.com/watson/developercloud/doc/discovery/migrate-adn.html) - the official guide for migrating to the Watson Discovery service.
 
+## Retrieve and Rank
+The Retrieve and Rank service allows you to build a corpus of information, and then search that corpus to retrieve documents based on a trained ranker that evaluates the appropriateness of the document to the question being asked.
+
+### References for Further Reading
+- [Developing with Retrieve and Rank](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-1-solr-configuration-29c18e52966f\#.8hzg11tqp) - a three part series onhow to use Retrieve and Rank. [Part 1 covers SOLR configuration](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-1-solr-configuration-29c18e52966f\#.8hzg11tqp), [Part 2 covers training and configuration](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-2-training-and-evaluation-fda57efff5c8\#.h2wwsnail), and [Part 3 covers custom features](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-3-custom-features-826fe88a5c63\#.bc4h7k5oi).
+
 ## Natural Language Understanding (NLU)
 xxx
 
