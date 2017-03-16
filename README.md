@@ -91,7 +91,7 @@ None
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services. 
 
 ## Alchemy API
-The Alchemy API is being deprecated, and will not be available for the creation of new Alchemy instances on April 7, 2017.  Existing Alchemy API instances will remain functional until March 7, 2018.
+The Alchemy API is being deprecated, and will not be available for the creation of new Alchemy instances on April 7, 2017.  Existing Alchemy API instances will remain functional until March 7, 2018.  Because of this, we strongly suggest starting new development with NLU or Discovery.  We will not be actively maintaining links to resources in this area.
 
 Users who utilized Alchemy Language in the past are now encouraged to use the [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page#natural-language-understanding-nlu) service.
 
@@ -125,6 +125,8 @@ xxx
 
 ### References for Further Reading
 - [Personality Insights Handbook](https://ibm.ent.box.com/file/51752480029) - A PDF with guidance, links to materials and code, and best practices for Personality Insights.
+- [User Segmentation with Jungian Archetypes](https://ibm.ent.box.com/s/jtnlgbvszf9bn1pakn6fvsiwvas4x8fq) - a slide deck showing how use of Jungian archetypes can help in market segmentation, effectively segmenting users into categories to target communications based on user personality.
+- [Leveraging PI to Predict Consumption Preferences](https://www.ibm.com/blogs/watson/2016/10/leveraging-personality-predict-consumption-preferences/) - a paper describing how Personality Insights can be used to help predict what people will choose to consume, based on their personality.
 
 **Code**
 - [Personality Insights with Twitter](https://github.com/watson-developer-cloud/personality-insights-twitter-python) - This sample shows how to get Twitter data using the Twitter REST API (via the python-twitter client library) and submit it to the Personality Insights Service.
