@@ -17,6 +17,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
 - **[Common Use Cases](https://github.com/dtoczala/watson-landing-page#common-use-cases)**
   - [Chatbots](https://github.com/dtoczala/watson-landing-page#chatbots)
   - [Customer Care](https://github.com/dtoczala/watson-landing-page#customer-care)
+  - [Visual Inspection](https://github.com/dtoczala/watson-landing-page#visual-inspection)
 - **[Cognitive Development Topics](https://github.com/dtoczala/watson-landing-page#cognitive-development-topics)**
   - [General Cognitive Development Information](https://github.com/dtoczala/watson-landing-page#general-cognitive-development-information)
   - [Cognitive Architectures](https://github.com/dtoczala/watson-landing-page#cognitive-architectures)
@@ -160,6 +161,7 @@ The Visual Recognition API is used for vision services.
 Often when doing analysis of pictures, it is useful to "tile" the image, and break it down into smaller chunks.  See the link to the [Visual Recognition Tile Localization](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) tool, which is a KEY component for segmenting larger images into bite size pieces for Visual Recognition.
 
 ### References for Further Reading
+- [Visual Recognition Command Line Interface](https://developer.ibm.com/dwblog/2017/command-line-tools-watson-visual-recognition/) - doing training and classification can be easier from the command line.
 - [Visual Recognition Tile Localization](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) - complete source code for visualizing localized results for a single class, within a single custom classifier using image preprocessing (tiling) techniques, and will run on Bluemix as-is.
 - [Best Practice for Training Custom Classifiers](https://www.ibm.com/blogs/bluemix/2016/10/watson-visual-recognition-training-best-practices/) - article outlining some good approaches and best practices for custom classifiers.
 - [Guidelines for Training Custom Classifiers](https://www.ibm.com/watson/developercloud/doc/visual-recognition/customizing.html) - some basic guidance on training custom classifiers from the online documentation.
@@ -193,7 +195,7 @@ This use case involves a visual inspection of still images using the Visual Reco
 
 ### References for Further Reading
 - [Seafood Inspection (Dory)](https://devpost.com/software/dory) - a team created a seafood inspection app using Visual Recognition that will distinguish between different types of seafood.
-
+- [Pokemon Go App](https://www.ibm.com/blogs/internet-of-things/pokemon-go-watson/) - Find Pokemon with the help of Watsons Visual Recognition services.
 
 ---
 # Cognitive Development Topics
