@@ -157,10 +157,12 @@ None
 ## Visual Recognition
 The Visual Recognition API is used for vision services.
 
-Often when doing analysis of pictures, it is useful to "tile" the image, and break it down into smaller chunks.  See the link to the Visual Recognition Tile Localization tool, which is a KEY component for segmenting larger images into bite size pieces for Visual Recognition.
+Often when doing analysis of pictures, it is useful to "tile" the image, and break it down into smaller chunks.  See the link to the [Visual Recognition Tile Localization](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) tool, which is a KEY component for segmenting larger images into bite size pieces for Visual Recognition.
 
 ### References for Further Reading
 - [Visual Recognition Tile Localization](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) - complete source code for visualizing localized results for a single class, within a single custom classifier using image preprocessing (tiling) techniques, and will run on Bluemix as-is.
+- [Best Practice for Training Custom Classifiers](https://www.ibm.com/blogs/bluemix/2016/10/watson-visual-recognition-training-best-practices/) - article outlining some good approaches and best practices for custom classifiers.
+- [Guidelines for Training Custom Classifiers](https://www.ibm.com/watson/developercloud/doc/visual-recognition/customizing.html) - some basic guidance on training custom classifiers from the online documentation.
 
 **Code**
 - [Visual Recgnition with ASP.NET](https://github.com/watson-developer-cloud/visual-recognition-aspnet) - Simple starter application in ASP.NET which uses the IBM Watson Visual Recognition service.
@@ -184,6 +186,14 @@ This is another popular use case, where a cognitive agent is used to handle comm
 ### References for Further Reading
 
 - [Customer Care Starter Kit](https://github.com/watson-developer-cloud/social-customer-care) - This application is a Starter Kit (SK) that is designed to get you up and running quickly with a common industry pattern, and to provide information and best practices around Watson services. This application was created to demonstrate how the Natural Language Classifier can be used to direct customer requests and queries to the appropriate agent or workflow. Additionally, Tone Analyzer, Alchemy Language, and Personality Insights demonstrate how to efficiently provide an agent with customer insights.  You will need to replace the Alchemy Language portions of this starter kit with NLU service calls - since Alchemy is being deprecated.
+
+## Visual Inspection
+
+This use case involves a visual inspection of still images using the Visual Recognition service and some other technologies.  Used to inspect, identify, and inform.
+
+### References for Further Reading
+- [Seafood Inspection (Dory)](https://devpost.com/software/dory) - a team created a seafood inspection app using Visual Recognition that will distinguish between different types of seafood.
+
 
 ---
 # Cognitive Development Topics
