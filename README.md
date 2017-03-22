@@ -67,13 +67,17 @@ Once intents and entities are defined in the Conversation service, it is the thi
 - [Conversation with Alchemy Entity Extraction](https://kozhayasite.wordpress.com/2016/08/27/watson-conversation-with-alchemy-entity-extraction/) - great overview of Conversation concepts, and how to integrate with other Watson capabilities.  Complete with a GitHub repo with sample code.
 
 **Intents**
+- [Defining Intents](https://www.ibm.com/watson/developercloud/doc/conversation/intents.html) - great starter page with video to help you in defining your intents.
 - [Compund Questions](https://sodoherty.ai/2017/02/06/compound-questions/) - Nice article on a technique for detecting compound questions.
 - [Watson in the White and Black Room](https://sodoherty.ai/2017/02/10/watson-in-the-black-and-white-room/) - Quick article on understanding Watson cofidence scores.
 
 **Entities**
+- [Defining Entities](https://www.ibm.com/watson/developercloud/doc/conversation/entities.html) - great starter page with video to help you in defining your entities.
 - [Improving Your Intents with Entities](https://sodoherty.ai/2017/01/16/improving-your-intents-with-entities/) - an exploration of how intents and entities work together.
 
 **Dialog**
+- [Building Dialogs](https://www.ibm.com/watson/developercloud/doc/conversation/dialog-build.html) - great starter page with video to help you in defining your entities.  It's a long page, but building a dialog can be a complex task.
+- [SpEL Language Guide]() - Valid expressions in conditions are written in the Spring Expression (SpEL) language.  This is a reference guide for the SpEL language.
 - [Recursive Questions with Conversations](https://ollycox.me/2016/10/21/recursive-questions-with-ibm-watson-conversations/) - a quick post showing how to disambiguate user utterances, without driving the end user crazy.
 - [Pattern for Gathering Information with Conversation](https://ollycox.me/2016/11/18/pattern-for-gathering-information-in-ibm-watson-conversations/) - an example (with code) of gathering multiple pieces of information in a Conversation flow.
 
