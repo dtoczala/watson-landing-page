@@ -105,7 +105,7 @@ Users who utilized Alchemy Language in the past are now encouraged to use the [N
 Users who utilized Alchemy Data News in the past are now encouraged to use the Watson [Discovery](https://github.com/dtoczala/watson-landing-page#discovery) service.
 
 ### References for Further Reading
-- [How to Migrate from Alchemy Lanaguage to NLU](http://wdc-watson-master.stage1.mybluemix.net/doc/natural-language-understanding/migrating.html) - the official guide for migrating to the NLU service.
+- [How to Migrate from Alchemy Lanaguage to NLU](https://www.ibm.com/watson/developercloud/doc/natural-language-understanding/migrating.html) - the official guide for migrating to the NLU service.
 - [How to Migrate from Alchemy Data News to Discovery](https://www.ibm.com/watson/developercloud/doc/discovery/migrate-adn.html) - the official guide for migrating to the Watson Discovery service.
 
 ## Retrieve and Rank
