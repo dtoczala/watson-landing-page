@@ -176,7 +176,7 @@ Often when doing analysis of pictures, it is useful to "tile" the image, and bre
 - [Visual Recgnition with ASP.NET](https://github.com/watson-developer-cloud/visual-recognition-aspnet) - Simple starter application in ASP.NET which uses the IBM Watson Visual Recognition service.
 ---
 # Common Use Cases
-This section will cover some of the basic patterns and cognitive use cases that are implemented using the Watson services.
+This section will cover some of the basic patterns and cognitive use cases that are implemented using the Watson services.  Ryan Anderson has a blog post on [common design patterns and use cases for cognitive development](https://www.linkedin.com/pulse/cognitive-bucket-list-leveraging-design-patterns-value-ryan-anderson) which I suggest you take 5 minutes to read.
 
 ## Chatbots
 
@@ -239,9 +239,12 @@ When looking at testing Cognitive systems, we run into issues that are new to so
 
 Andrew Freed has an excellent series of articles that cover the [testing pyramid](https://developer.ibm.com/watson/blog/2016/09/21/cognitive-system-testing-part-1-how-to-test-a-cognitive-system-and-why-its-so-important/), and discuss cognitive system concepts for [smoke testing](https://developer.ibm.com/watson/blog/2016/10/03/cognitive-system-testing-smoke-testing/), [accuracy testing](https://developer.ibm.com/watson/blog/2016/11/07/cognitive-system-testing-part-5-overall-system-accuracy-testing/), [ingestion](https://developer.ibm.com/watson/blog/2016/10/19/cognitive-system-testing-testing-at-the-beginning-with-ingestion-verification-test/) and [NLP](https://developer.ibm.com/watson/blog/2016/10/31/cognitive-system-testing-natural-language-processing-unit-testing/) testing, and finally [unit testing](https://developer.ibm.com/watson/blog/2016/11/21/cognitive-system-testing-so-i-dont-need-to-unit-test-my-cognitive-system/).  The series is a great overview of cognitive testing concepts.
 
+There are also some good tools available to help you in you testing of your Watson cognitive services.  There is the [Watson Cognitive Testing Framework](https://github.com/joe4k/wdcutils/) for measuring performance, which provides several commonly used performance metrics of custom ML models (Accuracy, Precision/Recall/F1, Confusion Matrix, AUC).
+
 ### References for Further Reading
 - [Andrew Freed Blogs](https://developer.ibm.com/watson/blog/author/afreed/) - Andrew has done some thinking about cognitive testing, his blog posts will give you some insight into solid testing approaches.
 - [Cognitive Quality Assurance \- An Introduction](https://brainsteam.co.uk/2016/03/29/cognitive-quality-assurance-an-introduction/) and [Cognitive Quality Assurance \- Performance Metrics](https://brainsteam.co.uk/2016/05/29/cognitive-quality-assurance-pt-2-performance-metrics/) - both authored by James Ravenscroft, with some good advice and introduction to the concepts of accuracy, precision, recall, and confusion matrices.
+- [Watson Cognitive Testing Framework](https://github.com/joe4k/wdcutils/) - a great set of Python Notebooks for measuring the performance of NLC, Discovery, Conversation, R&R, and Visual Recognition.
 
 ## Watson/Bluemix Security Concerns
 There are some very real security implications that you will have to consider when developing applications and systems that use the IBM Cloud, and the Watson services hosted on that cloud.
