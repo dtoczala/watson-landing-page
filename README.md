@@ -85,6 +85,7 @@ Once intents and entities are defined in the Conversation service, it is the thi
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services. 
 
 **Code**
+- [Conversation API Reference](https://www.ibm.com/watson/developercloud/conversation/api/v1/) - The API reference page.
 - [Simple Conversation App](https://github.com/watson-developer-cloud/conversation-simple) - A simple sample Node.js app that uses conversation to power to car dashboard.
 - [Sample Conversation Applications](https://www.ibm.com/watson/developercloud/doc/conversation/sample-applications.html) - sample applications with code in GitHub, showing simple Conversation applications, as well as some simple applications with other services integrated. 
 
@@ -92,7 +93,7 @@ Once intents and entities are defined in the Conversation service, it is the thi
 xxx
 
 ### References for Further Reading
-None
+- [Discovery API Reference](https://www.ibm.com/watson/developercloud/discovery/api/v1/) - The API reference page.
 
 **Integration**
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services. 
@@ -112,6 +113,7 @@ Users who utilized Alchemy Data News in the past are now encouraged to use the W
 The Retrieve and Rank service allows you to build a corpus of information, and then search that corpus to retrieve documents based on a trained ranker that evaluates the appropriateness of the document to the question being asked.
 
 ### References for Further Reading
+- [Retrieve and Rank API Reference](https://www.ibm.com/watson/developercloud/retrieve-and-rank/api/v1/) - The API reference page.
 - [R\&R Handbook](https://ibm.ent.box.com/file/53750516365) - A PDF with guidance, links to materials and code, and best practices for Retrieve and Rank.
 - [Developing with Retrieve and Rank](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-1-solr-configuration-29c18e52966f\#.8hzg11tqp) - a three part series onhow to use Retrieve and Rank. [Part 1 covers SOLR configuration](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-1-solr-configuration-29c18e52966f\#.8hzg11tqp), [Part 2 covers training and configuration](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-2-training-and-evaluation-fda57efff5c8\#.h2wwsnail), and [Part 3 covers custom features](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-3-custom-features-826fe88a5c63\#.bc4h7k5oi).
 
@@ -119,18 +121,20 @@ The Retrieve and Rank service allows you to build a corpus of information, and t
 xxx
 
 ### References for Further Reading
-None
+- [NLU API Reference](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) - The API reference page.
 
 ## Natural Language Classifier (NLC)
 xxx
 
 ### References for Further Reading
+- [NLC API Reference](https://www.ibm.com/watson/developercloud/natural-language-classifier/api/v1/) - The API reference page.
 - [NLC Handbook](https://ibm.ent.box.com/file/53025315153) - A PDF with guidance, links to materials and code, and best practices for Natural Language Classifier.
 
 ## Personality Insights
 xxx
 
 ### References for Further Reading
+- [Personality Insights API Reference](https://www.ibm.com/watson/developercloud/personality-insights/api/v3/) - The API reference page.
 - [Personality Insights Handbook](https://ibm.ent.box.com/file/51752480029) - A PDF with guidance, links to materials and code, and best practices for Personality Insights.
 - [User Segmentation with Jungian Archetypes](https://ibm.ent.box.com/s/jtnlgbvszf9bn1pakn6fvsiwvas4x8fq) - a slide deck showing how use of Jungian archetypes can help in market segmentation, effectively segmenting users into categories to target communications based on user personality.
 - [Leveraging PI to Predict Consumption Preferences](https://www.ibm.com/blogs/watson/2016/10/leveraging-personality-predict-consumption-preferences/) - a paper describing how Personality Insights can be used to help predict what people will choose to consume, based on their personality.
@@ -142,6 +146,8 @@ xxx
 xxx
 
 ### References for Further Reading
+- [Speech to Text (STT) API Reference](https://www.ibm.com/watson/developercloud/speech-to-text/api/v1/) - The API reference page.
+- [Text to Speech (TTS) API Reference](https://www.ibm.com/watson/developercloud/text-to-speech/api/v1/) - The API reference page.
 - [IBM STT Model Hits New Milestone](https://www.ibm.com/blogs/watson/2017/03/reaching-new-records-in-speech-recognition/) - no technical information here, but an overview of how STT is done, and how IBM continues to improve it's speech recognition models.
 - [Introducing Diarization](https://www.ibm.com/blogs/watson/2016/12/look-whos-talking-ibm-debuts-watson-speech-text-speaker-diarization-beta/) - announcement of the "diarization" capability in STT that allows you to differentiate between different speakers in an audio passage.
 
@@ -153,7 +159,7 @@ xxx
 xxx
 
 ### References for Further Reading
-None
+- [Tone Analyzer API Reference](https://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/) - The API reference page.
 
 ## Tradeoff Analytics
 xxx
@@ -167,6 +173,7 @@ The Visual Recognition API is used for vision services.
 Often when doing analysis of pictures, it is useful to "tile" the image, and break it down into smaller chunks.  See the link to the [Visual Recognition Tile Localization](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) tool, which is a KEY component for segmenting larger images into bite size pieces for Visual Recognition.
 
 ### References for Further Reading
+- [Visual Recognition API Reference](https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/) - The API reference page.
 - [Visual Recognition Command Line Interface](https://developer.ibm.com/dwblog/2017/command-line-tools-watson-visual-recognition/) - doing training and classification can be easier from the command line.
 - [Sharpen Watson Visual Recognition Results](https://www.ibm.com/blogs/bluemix/2017/03/sharpen-watson-visual-recognition-results/) - Great blog by Andy Trice, his blog explains how to use "tile localization" to help your classifiers find details in images, and includes [the code for doing this](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) on GitHub, which will run on Bluemix as-is.
 - [Best Practice for Training Custom Classifiers](https://www.ibm.com/blogs/bluemix/2016/10/watson-visual-recognition-training-best-practices/) - article outlining some good approaches and best practices for custom classifiers.
