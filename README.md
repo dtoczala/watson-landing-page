@@ -201,6 +201,7 @@ This is another popular use case, where a cognitive agent is used to handle comm
 ### References for Further Reading
 
 - [Customer Care Starter Kit](https://github.com/watson-developer-cloud/social-customer-care) - This application is a Starter Kit (SK) that is designed to get you up and running quickly with a common industry pattern, and to provide information and best practices around Watson services. This application was created to demonstrate how the Natural Language Classifier can be used to direct customer requests and queries to the appropriate agent or workflow. Additionally, Tone Analyzer, Alchemy Language, and Personality Insights demonstrate how to efficiently provide an agent with customer insights.  You will need to replace the Alchemy Language portions of this starter kit with NLU service calls - since Alchemy is being deprecated.
+- [Knowledge Base Search](https://www.ibm.com/watson/developercloud/starter-kits.html#knowledge-base-search) - this is an improved knowledge base search based on annotated content in a corpus.  Uses the Watson Discovery service.
 
 ## Visual Inspection
 
