@@ -13,3 +13,4 @@
 - You are looking for a nice way to discover all of your Bluemix orgs, spaces, and applications.
   - **Resolution:**
     1. Use the [Bluemix Console Tool](http://myconsole.mybluemix.net/\#/dashboard).  It is a tool deployed on Bluemix that will show you all of your Bluemix services, spaces, applications, and organizations.
+    1. If you need to get information for support, read [Getting Bluemix Information for Support and Automation](https://developer.ibm.com/dwblog/2017/getting-bluemix-information-support-automation/) for details on how to get the needed data using the [Bluemix CLI](https://console.ng.bluemix.net/docs/cli/reference/bluemix_cli/index.html#reference).
