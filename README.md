@@ -90,10 +90,13 @@ Once intents and entities are defined in the Conversation service, it is the thi
 - [Sample Conversation Applications](https://www.ibm.com/watson/developercloud/doc/conversation/sample-applications.html) - sample applications with code in GitHub, showing simple Conversation applications, as well as some simple applications with other services integrated. 
 
 ## Discovery
-xxx
+The Watson Discovery service helps you gather insights from large amounts of data, similar to the Retrieve and Rank service.  Discovery lets you upload your own enterprise data and then use its enrichment capabilities to understand the data and gather insights.  You can use Discovery in various use cases such as capturing insights from data as well as question/answer use cases where the corpus consists of a large number of documents and the objective is to find the most relevant answers to a query.
+
+Another interesting feature of Discovery is that it comes preinstalled with a Watson News data set.  This is a public data set of the news, with approximately 300,000 articles and blogs daily, that is pre-enriched with cognitive insights. This results in a data set of primarily English language news sources that is updated continuously. You can use the Discovery News capability to query this data set for insights that you can integrate directly into your application.
 
 ### References for Further Reading
 - [Discovery API Reference](https://www.ibm.com/watson/developercloud/discovery/api/v1/) - The API reference page.
+- [Explore the news and gather insights using Watson Discovery](https://www.ibm.com/developerworks/library/cc-watson-discovery-service-bluemix-explore/) - Nice tutorial on how to use the news reading and curation capabilities in the Discover services, and how to use some of the basic functionality to get insights into what the news is.
 
 **Integration**
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services. 
