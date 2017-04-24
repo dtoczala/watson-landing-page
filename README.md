@@ -111,7 +111,7 @@ Users who utilized Alchemy Data News in the past are now encouraged to use the W
 ### References for Further Reading
 - [How to Migrate from Alchemy Lanaguage to NLU](https://www.ibm.com/watson/developercloud/doc/natural-language-understanding/migrating.html) - the official guide for migrating to the NLU service.
 - [How to Migrate from Alchemy Data News to Discovery](https://www.ibm.com/watson/developercloud/doc/discovery/migrate-adn.html) - the official guide for migrating to the Watson Discovery service.
-- [Alchemy API Migration - Tips and Tricks](docs/alchemy_migration.md) - answers to some of the more common questions that are not addressed in the documentation.
+- [Alchemy API Migration - Tips and Tricks](docs/Alchemy_migrate.md) - answers to some of the more common questions that are not addressed in the documentation.
 
 
 ## Retrieve and Rank
