@@ -90,6 +90,9 @@ Once intents and entities are defined in the Conversation service, it is the thi
 - [Simple Conversation App](https://github.com/watson-developer-cloud/conversation-simple) - A simple sample Node.js app that uses conversation to power to car dashboard.
 - [Sample Conversation Applications](https://www.ibm.com/watson/developercloud/doc/conversation/sample-applications.html) - sample applications with code in GitHub, showing simple Conversation applications, as well as some simple applications with other services integrated. 
 
+**Logs**
+- [I love Pandas!](https://sodoherty.ai/2017/04/19/i-love-pandas/#comment-765) - quick but informative blog post on how to use the Python pandas library to analyze your Conversation logs.
+
 ## Discovery
 The Watson Discovery service helps you gather insights from large amounts of data, similar to the Retrieve and Rank service.  Discovery lets you upload your own enterprise data and then use its enrichment capabilities to understand the data and gather insights.  You can use Discovery in various use cases such as capturing insights from data as well as question/answer use cases where the corpus consists of a large number of documents and the objective is to find the most relevant answers to a query.
 
