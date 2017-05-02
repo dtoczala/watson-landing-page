@@ -240,10 +240,20 @@ Cognitive architectures are not that different from the architectures for applic
 ## The Importance of Data
 Data is the lifeblood of any cognitive solution.  You need to be aware of [the common challenges that you will face](http://freedville.com/blog/2017/03/05/machine-learning-is-just-the-tip-of-the-iceberg-5-dangers-lurking-below-the-surface/) when working with the data that powers your cognitive solution.  The training processes used with cognitive systems is iterative, and the management of the data to do this training is an ongoing concern.  It's part of the common maintenance that is needed for a truly cognitive system.
 
+### Data Science, Design and User Experience
+Data science manages to surface data and information from large data sets, to help us understand better.  Design and user experience design help bring this data, and it's insights, to life for your end user.  Any powerful application that delights it's end users will have both a strong user experience, and a strong data science component.  Here is some suggested reading on the intersection of design and data.
+
+- [How Designers can use Data to create amazing work](http://blog.invisionapp.com/how-designers-can-use-data/) - Roger Huang of Springboard talks about 5 basic goals in this area, and provides some key resources and tips for the day-to-day application of these concepts.
+- [Experience Design in the Machine Learning Era](https://medium.com/@girardin/experience-design-in-the-machine-learning-era-e16c87f4f2e2) - A long but very good post by Fabien Girardin of BBVA, on the importance of design and data for the success of a any cognitive application.  Thought provoking content.
+- [How Data and Design Can Work Together](http://www.hugeinc.com/ideas/perspective/how-data-and-design-can-work-together) - Heiko Waechter brings some some quick points that you need to consider when working in the intersection of data and design.
+- [5 Steps to Thinking Like a Designer in Machine Learning](http://machinelearningmastery.com/5-steps-to-thinking-like-a-designer-in-machine-learning/) - Kevin Dallas brings up 5 basic points that need to be considered when doing data science, and makes the argument that good data scientists need to be good designers.
+- [Machine Learning and UX](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3) - Byron Houwens discusses great design for machine learning, and highlights the point that there is not a lot of information about the intersection of machine learning and design out there right now.  It's a field full of opportunity.
+
 ### References for Further Reading
 - [Why Does Machine Learning Require So Much Data](http://freedville.com/blog/2016/12/15/why-does-machine-learning-require-so-much-training-data/) - Great look at why you need so much data, and a veiled reference to [Malcoim Gladwell's 10000 hour rule](http://gladwell.com/outliers/the-10000-hour-rule/).
 - [Data Considerations When Building a Cognitive Solution](https://kozhayasite.wordpress.com/2016/07/31/data-considerations-when-building-a-cognitive-solution/) - an overview of data considerations when working with Watson services.
 - [Data Scientists and App Develpment](https://medium.com/cognitive-resonance/data-scientists-and-app-development-fde50ebb54de#.nz70d9ke0) - Anthony discusses the importance of data science in the building of cognitive applications, and he shares some ways to learn more about data science.
+- [Invisible Design - AirBnb](http://airbnb.design/invisible-design/) - Amber Cartwright of AirBnB writes about how you need to truly understand a product and the technology behind it, to be able to design effectively.
 
 ## DevOps with Cognitive on Bluemix
 xxx
