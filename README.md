@@ -158,9 +158,9 @@ xxx
 - [Personality Insights with Twitter](https://github.com/watson-developer-cloud/personality-insights-twitter-python) - This sample shows how to get Twitter data using the Twitter REST API (via the python-twitter client library) and submit it to the Personality Insights Service.
 
 ## Speech to Text and Text to Speech (STT/TTS)
-Speech to Text (STT) and Text to Speech (TTS) are well understood capabilities, so no use in going into a boring explanation.  These are often coupled with NLU or Conversation, to help form compelling cognitive applications.
+Speech to Text (STT) and Text to Speech (TTS) are well understood capabilities, so no use in going into a boring explanation.  These are often coupled with [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#natural-language-understanding-nlu) or [Conversation](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#conversation), to help form compelling cognitive applications.
 
-Often latency can be an issue with STT, and is is HIGJLY recommended that you you use Web Sockets for your data transfer when using STT.  It greatly reduces the latency (as compared to http).
+Often latency can be an issue with STT, and is is HIGHLY recommended that you you use Web Sockets for your data transfer when using STT.  It greatly reduces the latency (as compared to http).
 
 ### References for Further Reading
 - [Speech to Text (STT) API Reference](https://www.ibm.com/watson/developercloud/speech-to-text/api/v1/) - The API reference page.
