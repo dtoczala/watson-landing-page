@@ -303,5 +303,9 @@ This section will cover some of the common tips and tricks used by cognitive dev
 
 - [Bluemix Tips and Tricks](docs/bluemix_tipstricks.md)
 
+## Staying Aware of Watson and Cloud Best practices
+There are some very good sources for current material on best practices with the Watson services.  Often these are published in a few "hotspots", and it's possible for you to monitor these so you are always aware of the latest information.  Here are some RSS feeds to some key "hotspots":
 
+- [RSS feed for Cloud Computing blogs on developerWorks](https://developer.ibm.com/dwblog/category/cloud-computing/feed/)
+- [RSS feed for Cognitive Computing blogs on developerWorks](https://developer.ibm.com/dwblog/category/cognitive-computing/feed/)
 
