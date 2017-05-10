@@ -265,9 +265,10 @@ Data science manages to surface data and information from large data sets, to he
 - [Invisible Design - AirBnb](http://airbnb.design/invisible-design/) - Amber Cartwright of AirBnB writes about how you need to truly understand a product and the technology behind it, to be able to design effectively.
 
 ## DevOps with Cognitive on Bluemix
-xxx
+The topic of DevOps when working in Bluemix is deserving of it's own "landing page".  The open cloud platform and the ability to apply the [Continuous Delivery](https://console.ng.bluemix.net/devops/getting-started) service, along with it's support for toolchains, means that you have a lot of options when configuring your Bluemix environment to promote best practices and DevOps principles.
 
 ### References for Further Reading
+- [Setting up your Bluemix environment](https://console.ng.bluemix.net/docs/admin/patterns.html#patterns) - Not a lot of guidance here, but this documentation page on Bluemix has a lot of the basic information that you will need to understand when setting up a DevOps supported development environment for your cloud and cognitive development.
 - [Full Cycle Cognitive Development (4 part series)](https://dtoczala.wordpress.com/2017/02/02/full-cycle-cognitive-development-part-1-business-concepts/) - A series by D. Toczala on the concerns, tools, and strategies for doing Cognitive development, from ideation through build and maintenance.
 
 ## Testing Approaches and Methods
