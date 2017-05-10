@@ -309,3 +309,10 @@ There are some very good sources for current material on best practices with the
 - [RSS feed for Cloud Computing blogs on developerWorks](https://developer.ibm.com/dwblog/category/cloud-computing/feed/)
 - [RSS feed for Cognitive Computing blogs on developerWorks](https://developer.ibm.com/dwblog/category/cognitive-computing/feed/)
 
+_Note: You can also follow your favorite author by subscribing to an RSS feed for just their content.  The RSS feed follows this format:_
+```
+https://developer.ibm.com/dwblog/author/<author_id>/feed/
+```
+Here are some examples:
+- To follow Dan Toczala's content, use https://developer.ibm.com/dwblog/author/dtoczala/feed/.
+- To follow Joe Kozhaya's content, use https://developer.ibm.com/dwblog/author/kozhaya/feed/
