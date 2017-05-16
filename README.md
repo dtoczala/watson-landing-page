@@ -139,14 +139,14 @@ It has replaced most of the functionality that was exposed in the [Alchemy Langu
 - [Chatbot with Conversation, NLU and Weather](https://developer.ibm.com/dwblog/2017/chatbot-watson-conversation-natural-language-understanding-nlu/) - developerWors article that walks you through setting up and cloning a project that will build a chatbot that uses Conversation, NLU and Weather.  Good example and you can poke through the code.
 
 ## Natural Language Classifier (NLC)
-xxx
+The Natural Language Classifier service applies cognitive computing techniques to return the best matching classes for a sentence or phrase. For example, you submit a question and the service returns keys to the best matching intents. You create a classifier instance by providing a set of utterances and a corresponding set of correct intents for each training question. After training, the new classifier can accept new questions or phrases and return the top matches with a probability score for each match.
 
 ### References for Further Reading
 - [NLC API Reference](https://www.ibm.com/watson/developercloud/natural-language-classifier/api/v1/) - The API reference page.
 - [NLC Handbook](https://ibm.ent.box.com/file/53025315153) - A PDF with guidance, links to materials and code, and best practices for Natural Language Classifier.
 
 ## Personality Insights
-xxx
+Personality Insights derives insights from written and social media data to identify psychological traits which can influence personal decisions, intent and behavioral traits; all of which can be utilized to improve customer interactions, customer engagement, and customer satisfaction.
 
 ### References for Further Reading
 - [Personality Insights API Reference](https://www.ibm.com/watson/developercloud/personality-insights/api/v3/) - The API reference page.
@@ -173,13 +173,13 @@ Often latency can be an issue with STT, and is is HIGHLY recommended that you yo
 - [Simple Python/WebSockets STT App](https://github.com/watson-developer-cloud/speech-to-text-websockets-python) - A simple starter app in Python, using WebSockets, that utilizes the Speech to Text service.
 
 ## Tone Analyzer
-xxx
+Tone Analyzer leverages cognitive linguistic analysis to identify a variety of tones at both the sentence and document level. This insight can then used to refine and improve communications. It detects three types of tones, including emotion (anger, disgust, fear, joy and sadness), social propensities (openness, conscientiousness, extroversion, agreeableness, and emotional range), and language styles (analytical, confident and tentative) from text.
 
 ### References for Further Reading
 - [Tone Analyzer API Reference](https://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/) - The API reference page.
 
 ## Tradeoff Analytics
-xxx
+This service has been deprecated.  
 
 ### References for Further Reading
 None
