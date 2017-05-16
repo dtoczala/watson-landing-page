@@ -28,6 +28,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
 - **[Code Development Resources and GitHub Repositories](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#code-development-resources-and-github-repositories)**
 - **[Common Tips and Tricks](https://github.com/dtoczala/watson-landing-page#common-tips-and-tricks)**
   - [Bluemix Tips and Tricks](docs/bluemix_tipstricks.md)
+  - [Staying Aware of Watson and Cloud Best Practices](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#staying-aware-of-watson-and-cloud-best-practices)
 
 ---
 # Introduction - Getting Started
