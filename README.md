@@ -91,6 +91,7 @@ Once intents and entities are defined in the Conversation service, it is the thi
 - [Simple Conversation App](https://github.com/watson-developer-cloud/conversation-simple) - A simple sample Node.js app that uses conversation to power to car dashboard.
 - [Sample Conversation Applications](https://www.ibm.com/watson/developercloud/doc/conversation/sample-applications.html) - sample applications with code in GitHub, showing simple Conversation applications, as well as some simple applications with other services integrated. 
 - [Chatbot with Conversation, NLU and Weather](https://developer.ibm.com/dwblog/2017/chatbot-watson-conversation-natural-language-understanding-nlu/) - developerWors article that walks you through setting up and cloning a project that will build a chatbot that uses Conversation, NLU and Weather.  Good example and you can poke through the code.
+- [Building Cognitive Applications with IBM Watson Services: Volume 2](http://www.redbooks.ibm.com/redpieces/pdfs/sg248394.pdf) - this is an IBM Redbook that shows some different use cases with the Conversation service.  It's long, at 248 pages, but has good detailed examples of different use cases.
 
 **Logs**
 - [I love Pandas!](https://sodoherty.ai/2017/04/19/i-love-pandas/#comment-765) - quick but informative blog post on how to use the Python pandas library to analyze your Conversation logs.
