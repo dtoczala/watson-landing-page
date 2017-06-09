@@ -66,6 +66,7 @@ Once intents and entities are defined in the Conversation service, it is the thi
 
 ### References for Further Reading
 - [Conversation with Alchemy Entity Extraction](https://kozhayasite.wordpress.com/2016/08/27/watson-conversation-with-alchemy-entity-extraction/) - great overview of Conversation concepts, and how to integrate with other Watson capabilities.  Complete with a GitHub repo with sample code.
+- [Conversation Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248394.html) - A large document with some best practices and example use cases using Conversation.  Very big, lots of details.
 
 **Intents**
 - [Defining Intents](https://www.ibm.com/watson/developercloud/doc/conversation/intents.html) - great starter page with video to help you in defining your intents.
@@ -137,6 +138,7 @@ It has replaced most of the functionality that was exposed in the [Alchemy Langu
 
 ### References for Further Reading
 - [NLU API Reference](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) - The API reference page.
+- [NLU Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248398.html?Open) - A large document with some best practices and an example use case using NLU.  Very big, lots of details.
 
 **Code**
 - [Chatbot with Conversation, NLU and Weather](https://developer.ibm.com/dwblog/2017/chatbot-watson-conversation-natural-language-understanding-nlu/) - developerWors article that walks you through setting up and cloning a project that will build a chatbot that uses Conversation, NLU and Weather.  Good example and you can poke through the code.
@@ -147,6 +149,8 @@ The Natural Language Classifier service applies cognitive computing techniques t
 ### References for Further Reading
 - [NLC API Reference](https://www.ibm.com/watson/developercloud/natural-language-classifier/api/v1/) - The API reference page.
 - [NLC Handbook](https://ibm.ent.box.com/file/53025315153) - A PDF with guidance, links to materials and code, and best practices for Natural Language Classifier.
+- [NLC Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248391.html) - A large document with some best practices and some example use cases using NLC.  Very big, lots of details.
+
 
 ## Personality Insights
 Personality Insights derives insights from written and social media data to identify psychological traits which can influence personal decisions, intent and behavioral traits; all of which can be utilized to improve customer interactions, customer engagement, and customer satisfaction.
@@ -169,6 +173,7 @@ Often latency can be an issue with STT, and is is HIGHLY recommended that you yo
 ### References for Further Reading
 - [Speech to Text (STT) API Reference](https://www.ibm.com/watson/developercloud/speech-to-text/api/v1/) - The API reference page.
 - [Text to Speech (TTS) API Reference](https://www.ibm.com/watson/developercloud/text-to-speech/api/v1/) - The API reference page.
+- [TTS/STT Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248388.html) - A large document with some best practices and an example use case using NLU.  Very big, lots of details.
 - [IBM STT Model Hits New Milestone](https://www.ibm.com/blogs/watson/2017/03/reaching-new-records-in-speech-recognition/) - no technical information here, but an overview of how STT is done, and how IBM continues to improve it's speech recognition models.
 - [Introducing Diarization](https://www.ibm.com/blogs/watson/2016/12/look-whos-talking-ibm-debuts-watson-speech-text-speaker-diarization-beta/) - announcement of the "diarization" capability in STT that allows you to differentiate between different speakers in an audio passage.
 
@@ -199,6 +204,7 @@ Often when doing analysis of pictures, it is useful to "tile" the image, and bre
 - [Sharpen Watson Visual Recognition Results](https://www.ibm.com/blogs/bluemix/2017/03/sharpen-watson-visual-recognition-results/) - Great blog by Andy Trice, his blog explains how to use "tile localization" to help your classifiers find details in images, and includes [the code for doing this](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) on GitHub, which will run on Bluemix as-is.
 - [Best Practice for Training Custom Classifiers](https://www.ibm.com/blogs/bluemix/2016/10/watson-visual-recognition-training-best-practices/) - article outlining some good approaches and best practices for custom classifiers.
 - [Guidelines for Training Custom Classifiers](https://www.ibm.com/watson/developercloud/doc/visual-recognition/customizing.html) - some basic guidance on training custom classifiers from the online documentation.
+- [Visual Recognition Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248393.html) - A large document with some best practices and some example use cases using Visual Recognition.  Very big, lots of details.
 
 **Code**
 - [Visual Recgnition with ASP.NET](https://github.com/watson-developer-cloud/visual-recognition-aspnet) - Simple starter application in ASP.NET which uses the IBM Watson Visual Recognition service.
