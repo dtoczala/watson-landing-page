@@ -141,7 +141,7 @@ It has replaced most of the functionality that was exposed in the [Alchemy Langu
 - [NLU Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248398.html?Open) - A large document with some best practices and an example use case using NLU.  Very big, lots of details.
 
 **Code**
-- [Chatbot with Conversation, NLU and Weather](https://developer.ibm.com/dwblog/2017/chatbot-watson-conversation-natural-language-understanding-nlu/) - developerWors article that walks you through setting up and cloning a project that will build a chatbot that uses Conversation, NLU and Weather.  Good example and you can poke through the code.
+- [Chatbot with Conversation, NLU and Weather](https://developer.ibm.com/dwblog/2017/chatbot-watson-conversation-natural-language-understanding-nlu/) - developerWorks article that walks you through setting up and cloning a project that will build a chatbot that uses Conversation, NLU and Weather.  Good example and you can poke through the code.
 
 ## Natural Language Classifier (NLC)
 The Natural Language Classifier service applies cognitive computing techniques to return the best matching classes for a sentence or phrase. For example, you submit a question and the service returns keys to the best matching intents. You create a classifier instance by providing a set of utterances and a corresponding set of correct intents for each training question. After training, the new classifier can accept new questions or phrases and return the top matches with a probability score for each match.
