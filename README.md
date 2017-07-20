@@ -67,6 +67,7 @@ Once intents and entities are defined in the Conversation service, it is the thi
 ### References for Further Reading
 - [Conversation with Alchemy Entity Extraction](https://kozhayasite.wordpress.com/2016/08/27/watson-conversation-with-alchemy-entity-extraction/) - great overview of Conversation concepts, and how to integrate with other Watson capabilities.  Complete with a GitHub repo with sample code.
 - [Conversation Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248394.html) - A large document with some best practices and example use cases using Conversation.  Very big, lots of details.
+- [The Socratic Method for Bot Writers](https://www.pullstring.com/blog/socratic-method) - great blog post on what to consider when planning and building a chatbot.  Planning and thought up front can have a huge impact on the value of your chatbot.
 
 **Intents**
 - [Defining Intents](https://www.ibm.com/watson/developercloud/doc/conversation/intents.html) - great starter page with video to help you in defining your intents.
