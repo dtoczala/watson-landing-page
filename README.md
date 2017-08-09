@@ -91,6 +91,8 @@ Once intents and entities are defined in the Conversation service, it is the thi
 **Code**
 - [Conversation API Reference](https://www.ibm.com/watson/developercloud/conversation/api/v1/) - The API reference page.
 - [Simple Conversation App](https://github.com/watson-developer-cloud/conversation-simple) - A simple sample Node.js app that uses conversation to power to car dashboard.
+- [10 Steps to Train a Chatbot and its Machine Learning Models to Maximize Performance](
+https://developer.ibm.com/dwblog/2016/10-steps-train-chat-bot-chatbot-machine-learning/) - this outlines the methodology for training chatbots and the associated machine learning models to maximize performance. Although presented in the context of chatbots due to their high popularity, the methodology applies to all cognitive solutions, not just chatbots.
 - [Sample Conversation Applications](https://www.ibm.com/watson/developercloud/doc/conversation/sample-applications.html) - sample applications with code in GitHub, showing simple Conversation applications, as well as some simple applications with other services integrated. 
 - [Chatbot with Conversation, NLU and Weather](https://developer.ibm.com/dwblog/2017/chatbot-watson-conversation-natural-language-understanding-nlu/) - developerWors article that walks you through setting up and cloning a project that will build a chatbot that uses Conversation, NLU and Weather.  Good example and you can poke through the code.
 - [Building Cognitive Applications with IBM Watson Services: Volume 2](http://www.redbooks.ibm.com/redpieces/pdfs/sg248394.pdf) - this is an IBM Redbook that shows some different use cases with the Conversation service.  It's long, at 248 pages, but has good detailed examples of different use cases.
@@ -222,6 +224,8 @@ Chatbots are popular right now, and they can help serve a real purpose.  Many cu
 - [Build a Chatbot That Cares](https://medium.com/ibm-watson-developer-cloud/build-a-chatbot-that-cares-part-1-d1c273e17a63\#.h9ahlfoh1) - nice series on building an IOT chatbot using the Coversation, Tone Analyzer, Speech-to-Text and Text-to-Speech services.
 - [Build a Chatbot with Watson and Spoontacular](https://medium.com/ibm-watson-developer-cloud/how-to-build-a-recipe-slack-bot-using-watson-conversation-and-spoonacular-api-487eacaf01d4\#.xxt6vwknl) - another chatbot tutorial that builds a chatbot using Watson Conversation and the Spoontacular API.
 - [Chatbot with Conversation, NLU and Weather](https://developer.ibm.com/dwblog/2017/chatbot-watson-conversation-natural-language-understanding-nlu/) - developerWors article that walks you through setting up and cloning a project that will build a chatbot that uses Conversation, NLU and Weather.  Good example and you can poke through the code.
+- [10 Steps to Train a Chatbot and its Machine Learning Models to Maximize Performance](
+https://developer.ibm.com/dwblog/2016/10-steps-train-chat-bot-chatbot-machine-learning/) - this outlines the methodology for training chatbots and the associated machine learning models to maximize performance. Although presented in the context of chatbots due to their high popularity, the methodology applies to all cognitive solutions, not just chatbots.
 
 ## Customer Care
 
@@ -279,6 +283,7 @@ Data science manages to surface data and information from large data sets, to he
 ### References for Further Reading
 - [Why Does Machine Learning Require So Much Data](http://freedville.com/blog/2016/12/15/why-does-machine-learning-require-so-much-training-data/) - Great look at why you need so much data, and a veiled reference to [Malcoim Gladwell's 10000 hour rule](http://gladwell.com/outliers/the-10000-hour-rule/).
 - [Data Considerations When Building a Cognitive Solution](https://kozhayasite.wordpress.com/2016/07/31/data-considerations-when-building-a-cognitive-solution/) - an overview of data considerations when working with Watson services.
+- [Extract insights from social media posts with Watson and Spark in Data Science Experience](https://www.ibm.com/developerworks/library/cc-cognitive-watson-extract-insights-spark-dsx/index.html) - this tutorial brings together several tools and services to address realistic business problems, that of brand analytics, user segmentation and personalized messaging. It illustrates how to run a Python notebook in Data Science Experience to analyze social media data leveraging Watson services (NLU and PI) for enriching the unstructured content.
 - [Data Scientists and App Develpment](https://medium.com/cognitive-resonance/data-scientists-and-app-development-fde50ebb54de#.nz70d9ke0) - Anthony discusses the importance of data science in the building of cognitive applications, and he shares some ways to learn more about data science.
 - [Invisible Design - AirBnb](http://airbnb.design/invisible-design/) - Amber Cartwright of AirBnB writes about how you need to truly understand a product and the technology behind it, to be able to design effectively.
 
@@ -300,6 +305,7 @@ There are also some good tools available to help you in you testing of your Wats
 - [Andrew Freed Blogs](https://developer.ibm.com/watson/blog/author/afreed/) - Andrew has done some thinking about cognitive testing, his blog posts will give you some insight into solid testing approaches.
 - [Cognitive Quality Assurance \- An Introduction](https://brainsteam.co.uk/2016/03/29/cognitive-quality-assurance-an-introduction/) and [Cognitive Quality Assurance \- Performance Metrics](https://brainsteam.co.uk/2016/05/29/cognitive-quality-assurance-pt-2-performance-metrics/) - both authored by James Ravenscroft, with some good advice and introduction to the concepts of accuracy, precision, recall, and confusion matrices.
 - [Watson Cognitive Testing Framework](https://github.com/joe4k/wdcutils/) - a great set of Python Notebooks for measuring the performance of NLC, Discovery, Conversation, R&R, and Visual Recognition.  Also check out the blog post, [Train and evaluate custom machine learning models of Watson Develper Cloud](https://developer.ibm.com/dwblog/2017/machine-learning-custom-models-watson-developer-cloud/), which introduces this framework and discusses how to use it.
+
 
 ## Watson/Bluemix Security Concerns
 There are some very real security implications that you will have to consider when developing applications and systems that use the IBM Cloud, and the Watson services hosted on that cloud.
