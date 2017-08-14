@@ -16,6 +16,7 @@ You are looking for a nice way to discover all of your Bluemix orgs, spaces, and
 - **Resolution:**
   1. Use the [Bluemix Console Tool](http://myconsole.mybluemix.net/\#/dashboard).  It is a tool deployed on Bluemix that will show you all of your Bluemix services, spaces, applications, and organizations.
   1. If you need to get information for support, read [Getting Bluemix Information for Support and Automation](https://developer.ibm.com/dwblog/2017/getting-bluemix-information-support-automation/) for details on how to get the needed data using the [Bluemix CLI](https://console.ng.bluemix.net/docs/cli/reference/bluemix_cli/index.html#reference).
+  1. If you want to do this via the REST interface for Bluemix, check out the [documentation on the Multi Cloud Controller Proxy (MCCP)](https://console.stage1.bluemix.net/docs/services/MCCP/index.html#mccp-apis).  It has info on how you can hit the API via REST calls.
 
 ## How do I understand Bluemix administration and billing?
 You are unsure about how to administer your Bluemix account, and want to know more about how things are billed.
