@@ -1,5 +1,7 @@
 # Bluemix Tips and Tricks
 
+## Informative and Interesting Links
+- The [Bluemix Help](http:/ibm.biz/bluemixhelp) page is an "unofficial" collection of links done by Lionel Mace.  Nice collection of places to start from.
 ## Annoying pop-ups asking for your credit card
 If you run into the issue of an annoying pop-up window from Bluemix that prompts you to enter credit card information,the most likely cause is:
 - You created a trial Bluemix account (this is probably before a corporate account subscription was initiated). Later on, a corporate Bluemix account is created and you were invited to work under that account. However, because the initial trial account still exists and is associated with your user id, you will continue to get the pop-up window from Bluemix prompting you to enter credit card information.
