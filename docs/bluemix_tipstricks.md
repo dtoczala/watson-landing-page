@@ -24,3 +24,5 @@ You are looking for a nice way to discover all of your Bluemix orgs, spaces, and
 You are unsure about how to administer your Bluemix account, and want to know more about how things are billed.
 - **Resolution:**
   1. Read the documentation on [Managing Your Bluemix Account](https://console.ng.bluemix.net/docs/admin/account.html).  It has advice on how to set up your account, monitor the usage of services by the account, and links that explain the billing procedures.
+  1. You can also check out the information in [Bluemix and Watson - Getting Started Right](https://developer.ibm.com/dwblog/2017/ibm-cloud-bluemix-watson-new-customers/) for some help in understanding administration, account setup, and organization.
+  1. Another good article on billing is [Monitoring Bluemix Usage and Spending](https://developer.ibm.com/dwblog/2017/monitoring-bluemix-usage-and-spending/), which goes over some account management basics.
