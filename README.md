@@ -327,6 +327,7 @@ This section has a list of great places where you can see working code, find dev
 This section will cover some of the common tips and tricks used by cognitive develpment professionals, and covers some of those things that are not addressed in the documentation.
 
 - [Bluemix Tips and Tricks](docs/bluemix_tipstricks.md)
+- [Bluemix Landing Page](https://github.com/dtoczala/bluemix-landing-page) - a similar project to this one, except it is focsed on the Bluemix Platform.
 
 ## Staying Aware of Watson and Cloud Best practices
 There are some very good sources for current material on best practices with the Watson services.  Often these are published in a few "hotspots", and it's possible for you to monitor these so you are always aware of the latest information.  Here are some RSS feeds to some key "hotspots":
