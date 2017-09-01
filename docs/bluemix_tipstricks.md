@@ -1,5 +1,7 @@
 # Bluemix Tips and Tricks
 
+This content has been moved to the [Bluemix Landing Page](https://github.com/dtoczala/bluemix-landing-page) project on GitHub.  It is being left here for reference, but is no longer being maintained.  
+
 ## Informative and Interesting Links
 - The [Bluemix Help](http:/ibm.biz/bluemixhelp) page is an "unofficial" collection of links done by Lionel Mace.  Nice collection of places to start from.
 ## Annoying pop-ups asking for your credit card
