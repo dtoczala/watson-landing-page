@@ -47,6 +47,7 @@ The Watson Developer Cloud (WDC) is a collection of cogntive services hosted on 
 - [Watson Developer Handbook](https://ibm.box.com/s/nav52vt6q2xwib5zqwupwjf78mxtgems) - A PDF with links to important materials.
 - [Building With Watson](https://www.ibm.com/watson/building-with-watson-webinar.html) - source for a series of technical webcasts on a variety of different Watson and cognitive computing topics.
 - [IBM Watson - Where Do I Start?](https://joshicohen.wordpress.com/2016/11/08/ibm-watson-wdis/) - a quick blog post with links to good places to get started on your exploration of the Watson services and technology.
+- [IBM Watson Developer Certification Study Guide](https://github.com/havasnewyork/IBM-Watson-Developer-Certification-Study-Guide) - parts of this are out of date, but the review of Cognitive Computing Fundamentals is pretty solid.
 
 **Tools**
 - [Bluemix Console Tool](http://myconsole.mybluemix.net/\#/dashboard) - Cool tool deployed on Bluemix that will show you all of your Bluemix services, spaces, applications, and organizations.
