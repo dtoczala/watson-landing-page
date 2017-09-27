@@ -186,10 +186,11 @@ Often latency can be an issue with STT, and is is HIGHLY recommended that you yo
 - [Simple Python/WebSockets STT App](https://github.com/watson-developer-cloud/speech-to-text-websockets-python) - A simple starter app in Python, using WebSockets, that utilizes the Speech to Text service.
 
 ## Tone Analyzer
-Tone Analyzer leverages cognitive linguistic analysis to identify a variety of tones at both the sentence and document level. This insight can then used to refine and improve communications. It detects three types of tones, including emotion (anger, disgust, fear, joy and sadness), social propensities (openness, conscientiousness, extroversion, agreeableness, and emotional range), and language styles (analytical, confident and tentative) from text.
+Tone Analyzer leverages cognitive linguistic analysis to identify a variety of tones at both the sentence and document level. This insight can then used to refine and improve communications. It detects two types of tones, emotion (anger, fear, joy and sadness), and language styles (analytical, confident and tentative) from text.
 
 ### References for Further Reading
 - [Tone Analyzer API Reference](https://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/) - The API reference page.
+- [Service Changes to Tone Analyzer]() - current as of Spetemebr 2017, this announces the elimination of social tones (openness, conscientiousness, extroversion, agreeableness, and emotional range) which were not used, the combination of the anger and disgust tones (which caused some confusion), and the return of only high scoring tone data.
 
 ## Tradeoff Analytics
 This service has been deprecated.  
