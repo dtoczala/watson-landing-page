@@ -88,6 +88,7 @@ Once intents and entities are defined in the Conversation service, it is the thi
 
 **Integration**
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services. 
+- [Build a configurable, retail-ready chatbot](https://developer.ibm.com/code/journey/create-cognitive-retail-chatbot/) - this is a good example of integrating usage of [Conversation](https://github.com/dtoczala/watson-landing-page#conversation) and [Discovery](https://github.com/dtoczala/watson-landing-page#discovery), along with some other things.  It includes code as well.
 
 **Code**
 - [Conversation API Reference](https://www.ibm.com/watson/developercloud/conversation/api/v1/) - The API reference page.
@@ -111,7 +112,8 @@ Another interesting feature of Discovery is that it comes preinstalled with a Wa
 - [Explore the news and gather insights using Watson Discovery](https://www.ibm.com/developerworks/library/cc-watson-discovery-service-bluemix-explore/) - Nice tutorial on how to use the news reading and curation capabilities in the Discover services, and how to use some of the basic functionality to get insights into what the news is.
 
 **Integration**
-- [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services. 
+- [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services.
+- [Build a configurable, retail-ready chatbot](https://developer.ibm.com/code/journey/create-cognitive-retail-chatbot/) - this is a good example of integrating usage of [Conversation](https://github.com/dtoczala/watson-landing-page#conversation) and [Discovery](https://github.com/dtoczala/watson-landing-page#discovery), along with some other things.  It includes code as well.
 
 ## Alchemy API
 The Alchemy API is being deprecated, and will not be available for the creation of new Alchemy instances on April 7, 2017.  Existing Alchemy API instances will remain functional until March 7, 2018.  Because of this, we strongly suggest starting new development with NLU or Discovery.  We will not be actively maintaining links to resources in this area.
@@ -168,6 +170,7 @@ Personality Insights derives insights from written and social media data to iden
 
 **Code**
 - [Personality Insights with Twitter](https://github.com/watson-developer-cloud/personality-insights-twitter-python) - This sample shows how to get Twitter data using the Twitter REST API (via the python-twitter client library) and submit it to the Personality Insights Service.
+- [Your Celebrity Match](https://github.com/watson-developer-cloud/your-celebrity-match) - a sample application that does an analysis of your Twitter traffic, and matches you to a variety of celebrities, based on personality, needs and values.
 
 ## Speech to Text and Text to Speech (STT/TTS)
 Speech to Text (STT) and Text to Speech (TTS) are well understood capabilities, so no use in going into a boring explanation.  These are often coupled with [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#natural-language-understanding-nlu) or [Conversation](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#conversation), to help form compelling cognitive applications.
