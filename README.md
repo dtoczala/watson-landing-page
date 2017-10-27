@@ -134,7 +134,7 @@ The Retrieve and Rank service allows you to build a corpus of information, and t
 
 ### References for Further Reading
 - [Retrieve and Rank API Reference](https://www.ibm.com/watson/developercloud/retrieve-and-rank/api/v1/) - The API reference page.
-- [R\&R Handbook](https://ibm.ent.box.com/file/53750516365) - A PDF with guidance, links to materials and code, and best practices for Retrieve and Rank.
+- [R\&R Handbook](https://ibm.box.com/s/n0lqowt0v97nxb5mtei6qrbkkbtdt2dm) - A PDF with guidance, links to materials and code, and best practices for Retrieve and Rank.
 - [Developing with Retrieve and Rank](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-1-solr-configuration-29c18e52966f\#.8hzg11tqp) - a three part series onhow to use Retrieve and Rank. [Part 1 covers SOLR configuration](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-1-solr-configuration-29c18e52966f\#.8hzg11tqp), [Part 2 covers training and configuration](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-2-training-and-evaluation-fda57efff5c8\#.h2wwsnail), and [Part 3 covers custom features](https://medium.com/machine-learning-with-ibm-watson/developing-with-ibm-watson-retrieve-and-rank-part-3-custom-features-826fe88a5c63\#.bc4h7k5oi).
 
 ## Natural Language Understanding (NLU)
@@ -154,7 +154,7 @@ The Natural Language Classifier service applies cognitive computing techniques t
 
 ### References for Further Reading
 - [NLC API Reference](https://www.ibm.com/watson/developercloud/natural-language-classifier/api/v1/) - The API reference page.
-- [NLC Handbook](https://ibm.ent.box.com/file/53025315153) - A PDF with guidance, links to materials and code, and best practices for Natural Language Classifier.
+- [NLC Handbook](https://ibm.box.com/s/rdlog2sue79178816s0rabkbi7ifu5vg) - A PDF with guidance, links to materials and code, and best practices for Natural Language Classifier.
 - [NLC Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248391.html) - A large document with some best practices and some example use cases using NLC.  Very big, lots of details.
 
 
@@ -163,7 +163,7 @@ Personality Insights derives insights from written and social media data to iden
 
 ### References for Further Reading
 - [Personality Insights API Reference](https://www.ibm.com/watson/developercloud/personality-insights/api/v3/) - The API reference page.
-- [Personality Insights Handbook](https://ibm.ent.box.com/file/51752480029) - A PDF with guidance, links to materials and code, and best practices for Personality Insights.
+- [Personality Insights Handbook](https://ibm.box.com/s/nav52vt6q2xwib5zqwupwjf78mxtgems) - A PDF with guidance, links to materials and code, and best practices for Personality Insights.
 - [User Segmentation with Jungian Archetypes](https://ibm.ent.box.com/s/jtnlgbvszf9bn1pakn6fvsiwvas4x8fq) - a slide deck showing how use of Jungian archetypes can help in market segmentation, effectively segmenting users into categories to target communications based on user personality.
 - [Leveraging PI to Predict Consumption Preferences](https://www.ibm.com/blogs/watson/2016/10/leveraging-personality-predict-consumption-preferences/) - a paper describing how Personality Insights can be used to help predict what people will choose to consume, based on their personality.
 - [25 Tweets to Know You: A New Model to Predict Personality with Social Media](https://arxiv.org/abs/1704.05513) - a paper describing the science behind the Personality Insights service.
