@@ -326,7 +326,14 @@ There are some very real security implications that you will have to consider wh
 This section has a list of great places where you can see working code, find development resources, or GitHub repositories with useful content.
 
 - [Application Starter Kits (ASKs)](https://www.ibm.com/watson/developercloud/starter-kits.html) - great collection of common use cases, and code to go with them, which you can use and deploy on Bluemix to see how things work for yourself.
-- [Watson Developer Cloud (GitHub)](https://github.com/watson-developer-cloud) - this GitHub repository has commonly used SDK's (software development kits) and code for some interesting demos.
+- [Watson Developer Cloud (GitHub)](https://github.com/watson-developer-cloud) - this GitHub repository has commonly used SDK's (software development kits) and code for some interesting demos.  Some of the SDK's included here are listed below, but you should check this site for other less common SDKs as well.
+  - [.NET SDK](https://github.com/watson-developer-cloud/dotnet-standard-sdk)
+  - [Python SDK](https://github.com/watson-developer-cloud/python-sdk)
+  - [Node SDK](https://github.com/watson-developer-cloud/node-sdk)
+  - [Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
+  - [Swift SDK](https://github.com/watson-developer-cloud/swift-sdk)
+  - [Java SDK](https://github.com/watson-developer-cloud/java-sdk)
+  - [Android SDK](https://github.com/watson-developer-cloud/android-sdk)
 
 ---
 # Common Tips and Tricks
