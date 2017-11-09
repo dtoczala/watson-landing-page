@@ -184,6 +184,7 @@ Often latency can be an issue with STT, and is is HIGHLY recommended that you yo
 - [IBM STT Model Hits New Milestone](https://www.ibm.com/blogs/watson/2017/03/reaching-new-records-in-speech-recognition/) - no technical information here, but an overview of how STT is done, and how IBM continues to improve it's speech recognition models.
 - [Introducing Diarization](https://www.ibm.com/blogs/watson/2016/12/look-whos-talking-ibm-debuts-watson-speech-text-speaker-diarization-beta/) - announcement of the "diarization" capability in STT that allows you to differentiate between different speakers in an audio passage.
 - [Watson Text to Speech Transformation Play](https://www.youtube.com/watch?v=scwVNHgRrOU&feature=youtu.be) - a video (showing code) which shows examples of modifications of speaker, tone, pitch, voice, and emotion, in Watson text-to-speech.
+- [Experimental: IBM's Voice Agent with Watson and Twillio](https://developer.ibm.com/recipes/tutorials/ibms-voice-agent-with-watson-and-twilio/) - video shows the new IBM Voice Agent (which uses Conversation, Speech-to-Text and Text-to-Speech) integrated with Twillio, to create a talking chatbot.
 
 **Code**
 - [Simple Node.js STT App](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - A simple starter app in Node.js that utilizes the Speech to Text service.
