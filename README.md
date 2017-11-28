@@ -89,6 +89,8 @@ Once intents and entities are defined in the Conversation service, it is the thi
 **Integration**
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services. 
 - [Build a configurable, retail-ready chatbot](https://developer.ibm.com/code/journey/create-cognitive-retail-chatbot/) - this is a good example of integrating usage of [Conversation](https://github.com/dtoczala/watson-landing-page#conversation) and [Discovery](https://github.com/dtoczala/watson-landing-page#discovery), along with some other things.  It includes code as well.
+- [How to build an enhanced chatbot with Watson Conversation](https://developer.ibm.com/recipes/tutorials/how-to-build-an-enhanced-chatbot-with-watson-conversation/) - tutorial shows how to build a Watson chatbot that is integrated with Facebook Messenger.
+- [Create a news chatbot to deliver content through Facebook Messenger](https://www.ibm.com/developerworks/library/cc-cognitive-chatbot-facebook/index.html) - this three part series goes over creating a chatbot application that integrates with Facebook and Slack.  The orchestration application is written in Java.
 
 **Code**
 - [Conversation API Reference](https://www.ibm.com/watson/developercloud/conversation/api/v1/) - The API reference page.
