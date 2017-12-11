@@ -217,6 +217,7 @@ Often when doing analysis of pictures, it is useful to "tile" the image, and bre
 - [Best Practice for Training Custom Classifiers](https://www.ibm.com/blogs/bluemix/2016/10/watson-visual-recognition-training-best-practices/) - article outlining some good approaches and best practices for custom classifiers.
 - [Guidelines for Training Custom Classifiers](https://www.ibm.com/watson/developercloud/doc/visual-recognition/customizing.html) - some basic guidance on training custom classifiers from the online documentation.
 - [Visual Recognition Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248393.html) - A large document with some best practices and some example use cases using Visual Recognition.  Very big, lots of details.
+- [Chihuahua or Muffin Revisited](https://sodoherty.ai/2017/09/28/chihuahua-or-muffin-revisited/) - funny demo that trains a visual classifier to detect dogs or food.
 
 **Code**
 - [Visual Recgnition with ASP.NET](https://github.com/watson-developer-cloud/visual-recognition-aspnet) - Simple starter application in ASP.NET which uses the IBM Watson Visual Recognition service.
