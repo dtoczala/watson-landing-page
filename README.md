@@ -229,9 +229,6 @@ The Watson Knowledge Studio is used to teach Watson the language of your domain,
 ### References for Further Reading
 - [Accelerate Watson model development with a rule-based approach](https://developer.ibm.com/tv/accelerate-watson-model-development-rule-based-approach/) - video showing that sometimes machine learning can be complimented by the use of rules in more deterministic patterns found in the content.  This webinar demonstrates this new feature in WKS to define such patterns in such a way that you do not have to be a programmer of regular expressions to define rules and apply them to annotate content with the resulting model.
 
-**Code**
-- [Visual Recgnition with ASP.NET](https://github.com/watson-developer-cloud/visual-recognition-aspnet) - Simple starter application in ASP.NET which uses the IBM Watson Visual Recognition service.
-
 ---
 # Common Use Cases
 This section will cover some of the basic patterns and cognitive use cases that are implemented using the Watson services.  Ryan Anderson has a blog post on [common design patterns and use cases for cognitive development](https://www.linkedin.com/pulse/cognitive-bucket-list-leveraging-design-patterns-value-ryan-anderson) which I suggest you take 5 minutes to read.
