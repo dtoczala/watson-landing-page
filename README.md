@@ -157,6 +157,7 @@ The Natural Language Classifier service applies cognitive computing techniques t
 
 ### References for Further Reading
 - [NLC API Reference](https://www.ibm.com/watson/developercloud/natural-language-classifier/api/v1/) - The API reference page.
+- [NLC Best Practices](https://www.ibm.com/watson/assets-watson/pdf/Watson-NLC-Links-Best-Practices-Design-Patterns.pdf) - a quick slide deck reviewing some best practices and design patterns for NLC.
 - [NLC Handbook](https://ibm.box.com/s/rdlog2sue79178816s0rabkbi7ifu5vg) - A PDF with guidance, links to materials and code, and best practices for Natural Language Classifier.
 - [NLC Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248391.html) - A large document with some best practices and some example use cases using NLC.  Very big, lots of details.
 
