@@ -148,6 +148,7 @@ It has replaced most of the functionality that was exposed in the [Alchemy Langu
 ### References for Further Reading
 - [NLU API Reference](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) - The API reference page.
 - [NLU Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248398.html?Open) - A large document with some best practices and an example use case using NLU.  Very big, lots of details.
+- [NLU Categories Hierarchy](https://console.bluemix.net/docs/services/natural-language-understanding/categories.html#categories-hierarchy) - from the online docs, a list of the categories hierarchy returned by NLU.  See if this breakdown will work for your use case.
 
 **Code**
 - [Chatbot with Conversation, NLU and Weather](https://developer.ibm.com/dwblog/2017/chatbot-watson-conversation-natural-language-understanding-nlu/) - developerWorks article that walks you through setting up and cloning a project that will build a chatbot that uses Conversation, NLU and Weather.  Good example and you can poke through the code.
