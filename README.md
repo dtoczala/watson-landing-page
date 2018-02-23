@@ -88,6 +88,7 @@ Once intents and entities are defined in the Conversation service, it is the thi
 - [Gathering Information with Conversation](https://medium.com/@snrubnomis/gathering-information-with-ibm-watson-conversation-e23887ccbe3d) - a nice example using a pizza ordering use case that demonstrates using "frames" in Conversation to collect a series of inputs from a user.
 
 **Integration**
+- [8 steps for developing question answer solutions using Watson Conversation and Watson Discovery](https://developer.ibm.com/dwblog/2017/best-practices-developing-question-answer-solutions-watson-conversation-discovery/?social_post=1230338742&fst=Discover) - Excellent overview of how to develop an Expert Advisor or Q&A system using Watson Conversation and Watson Discovery.  Great real-world advice from two guys who have done this themselves.
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services. 
 - [Build a configurable, retail-ready chatbot](https://developer.ibm.com/code/journey/create-cognitive-retail-chatbot/) - this is a good example of integrating usage of [Conversation](https://github.com/dtoczala/watson-landing-page#conversation) and [Discovery](https://github.com/dtoczala/watson-landing-page#discovery), along with some other things.  It includes code as well.
 - [How to build an enhanced chatbot with Watson Conversation](https://developer.ibm.com/recipes/tutorials/how-to-build-an-enhanced-chatbot-with-watson-conversation/) - tutorial shows how to build a Watson chatbot that is integrated with Facebook Messenger.
@@ -115,6 +116,7 @@ Another interesting feature of Discovery is that it comes preinstalled with a Wa
 - [Explore the news and gather insights using Watson Discovery](https://www.ibm.com/developerworks/library/cc-watson-discovery-service-bluemix-explore/) - Nice tutorial on how to use the news reading and curation capabilities in the Discover services, and how to use some of the basic functionality to get insights into what the news is.
 
 **Integration**
+- [8 steps for developing question answer solutions using Watson Conversation and Watson Discovery](https://developer.ibm.com/dwblog/2017/best-practices-developing-question-answer-solutions-watson-conversation-discovery/?social_post=1230338742&fst=Discover) - Excellent overview of how to develop an Expert Advisor or Q&A system using Watson Conversation and Watson Discovery.  Great real-world advice from two guys who have done this themselves.
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Conversation and Discovery services.
 - [Build a configurable, retail-ready chatbot](https://developer.ibm.com/code/journey/create-cognitive-retail-chatbot/) - this is a good example of integrating usage of [Conversation](https://github.com/dtoczala/watson-landing-page#conversation) and [Discovery](https://github.com/dtoczala/watson-landing-page#discovery), along with some other things.  It includes code as well.
 
@@ -255,6 +257,7 @@ This is another popular use case, where a cognitive agent is used to handle comm
 
 - [Customer Care Starter Kit](https://github.com/watson-developer-cloud/social-customer-care) - This application is a Starter Kit (SK) that is designed to get you up and running quickly with a common industry pattern, and to provide information and best practices around Watson services. This application was created to demonstrate how the Natural Language Classifier can be used to direct customer requests and queries to the appropriate agent or workflow. Additionally, Tone Analyzer, Alchemy Language, and Personality Insights demonstrate how to efficiently provide an agent with customer insights.  You will need to replace the Alchemy Language portions of this starter kit with NLU service calls - since Alchemy is being deprecated.
 - [Knowledge Base Search](https://www.ibm.com/watson/developercloud/starter-kits.html#knowledge-base-search) - this is an improved knowledge base search based on annotated content in a corpus.  Uses the Watson Discovery service.
+- [8 steps for developing question answer solutions using Watson Conversation and Watson Discovery](https://developer.ibm.com/dwblog/2017/best-practices-developing-question-answer-solutions-watson-conversation-discovery/?social_post=1230338742&fst=Discover) - Excellent overview of how to develop an Expert Advisor or Q&A system using Watson Conversation and Watson Discovery.  Great real-world advice from two guys who have done this themselves.
 
 ## Visual Inspection
 
