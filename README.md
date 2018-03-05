@@ -115,6 +115,10 @@ Another interesting feature of Discovery is that it comes preinstalled with a Wa
 ### References for Further Reading
 - [Discovery API Reference](https://www.ibm.com/watson/developercloud/discovery/api/v1/) - The API reference page.
 - [Explore the news and gather insights using Watson Discovery](https://www.ibm.com/developerworks/library/cc-watson-discovery-service-bluemix-explore/) - Nice tutorial on how to use the news reading and curation capabilities in the Discover services, and how to use some of the basic functionality to get insights into what the news is.
+- [The IBM Advantage for Cognitive Discovery Cloud Architecture](https://www.ibm.com/cloud/garage/files/IBM-Advantage-Paper-for-Cognitive-Discovery.pdf) - hesitated to add this because it is a LITTLE bit of a "rah-rah" sales pitch.  However, it does a nice job of explaining the Discovery service, shares some reference architectures, and talks about the importance of good data and data handling.
+
+**Code**
+- [Sample UI and code pattern for Discovery with Node,js](https://developer.ibm.com/code/patterns/create-an-app-to-perform-intelligent-searches-on-data/) - the demo video is 15 minutes long, and you can just go and grab the code out of GitHub.  Nice way to get yourself kickstarted with using Discovery with Node,js.
 
 **Integration**
 - [8 steps for developing question answer solutions using Watson Conversation and Watson Discovery](https://developer.ibm.com/dwblog/2017/best-practices-developing-question-answer-solutions-watson-conversation-discovery/?social_post=1230338742&fst=Discover) - Excellent overview of how to develop an Expert Advisor or Q&A system using Watson Conversation and Watson Discovery.  Great real-world advice from two guys who have done this themselves.
