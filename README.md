@@ -3,7 +3,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
 # Contents
 - **[Introduction](https://github.com/dtoczala/watson-landing-page#introduction---getting-started)**
 - **[Watson Services and APIs](https://github.com/dtoczala/watson-landing-page#watson-services-and-apis)**
-  - [Watson Assistant](https://github.com/dtoczala/watson-landing-page#conversation)
+  - [Watson Assistant](https://github.com/dtoczala/watson-landing-page#watson-assistant-formerly-conversation)
   - [Discovery](https://github.com/dtoczala/watson-landing-page#discovery)
   - [Alchemy API](https://github.com/dtoczala/watson-landing-page#alchemy-api)
   - [Retrieve and Rank](https://github.com/dtoczala/watson-landing-page#retrieve-and-rank)
@@ -93,7 +93,7 @@ Once intents and entities are defined in the Assistant service, it is the third 
 **Integration**
 - [8 steps for developing question answer solutions using Watson Conversation and Watson Discovery](https://developer.ibm.com/dwblog/2017/best-practices-developing-question-answer-solutions-watson-conversation-discovery/?social_post=1230338742&fst=Discover) - Excellent overview of how to develop an Expert Advisor or Q&A system using Watson Assistant and Watson Discovery.  Great real-world advice from two guys who have done this themselves.
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Assistant and Discovery services. 
-- [Build a configurable, retail-ready chatbot](https://developer.ibm.com/code/journey/create-cognitive-retail-chatbot/) - this is a good example of integrating usage of [Conversation](https://github.com/dtoczala/watson-landing-page#conversation) and [Discovery](https://github.com/dtoczala/watson-landing-page#discovery), along with some other things.  It includes code as well.
+- [Build a configurable, retail-ready chatbot](https://developer.ibm.com/code/journey/create-cognitive-retail-chatbot/) - this is a good example of integrating usage of [Conversation](https://github.com/dtoczala/watson-landing-page#watson-assistant-formerly-conversation) and [Discovery](https://github.com/dtoczala/watson-landing-page#discovery), along with some other things.  It includes code as well.
 - [How to build an enhanced chatbot with Watson Conversation](https://developer.ibm.com/recipes/tutorials/how-to-build-an-enhanced-chatbot-with-watson-conversation/) - tutorial shows how to build a Watson chatbot that is integrated with Facebook Messenger.
 - [Create a news chatbot to deliver content through Facebook Messenger](https://www.ibm.com/developerworks/library/cc-cognitive-chatbot-facebook/index.html) - this three part series goes over creating a chatbot application that integrates with Facebook and Slack.  The orchestration application is written in Java.
 
@@ -125,7 +125,7 @@ Another interesting feature of Discovery is that it comes preinstalled with a Wa
 **Integration**
 - [8 steps for developing question answer solutions using Watson Conversation and Watson Discovery](https://developer.ibm.com/dwblog/2017/best-practices-developing-question-answer-solutions-watson-conversation-discovery/?social_post=1230338742&fst=Discover) - Excellent overview of how to develop an Expert Advisor or Q&A system using Watson Assistant and Watson Discovery.  Great real-world advice from two guys who have done this themselves.
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Assistant and Discovery services.
-- [Build a configurable, retail-ready chatbot](https://developer.ibm.com/code/journey/create-cognitive-retail-chatbot/) - this is a good example of integrating usage of [Assistant](https://github.com/dtoczala/watson-landing-page#conversation) and [Discovery](https://github.com/dtoczala/watson-landing-page#discovery), along with some other things.  It includes code as well.
+- [Build a configurable, retail-ready chatbot](https://developer.ibm.com/code/journey/create-cognitive-retail-chatbot/) - this is a good example of integrating usage of [Assistant](https://github.com/dtoczala/watson-landing-page#watson-assistant-formerly-conversation) and [Discovery](https://github.com/dtoczala/watson-landing-page#discovery), along with some other things.  It includes code as well.
 
 ## Alchemy API
 The Alchemy API is being deprecated, and will not be available for the creation of new Alchemy instances on April 7, 2017.  Existing Alchemy API instances will remain functional until March 7, 2018.  Because of this, we strongly suggest starting new development with NLU or Discovery.  We will not be actively maintaining links to resources in this area.
@@ -187,7 +187,7 @@ Personality Insights derives insights from written and social media data to iden
 - [Your Celebrity Match](https://github.com/watson-developer-cloud/your-celebrity-match) - a sample application that does an analysis of your Twitter traffic, and matches you to a variety of celebrities, based on personality, needs and values.
 
 ## Speech to Text and Text to Speech (STT/TTS)
-Speech to Text (STT) and Text to Speech (TTS) are well understood capabilities, so no use in going into a boring explanation.  These are often coupled with [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#natural-language-understanding-nlu) or [Assistant](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#conversation), to help form compelling cognitive applications.
+Speech to Text (STT) and Text to Speech (TTS) are well understood capabilities, so no use in going into a boring explanation.  These are often coupled with [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#natural-language-understanding-nlu) or [Assistant](https://github.com/dtoczala/watson-landing-page#watson-assistant-formerly-conversation), to help form compelling cognitive applications.
 
 Often latency can be an issue with STT, and is is HIGHLY recommended that you you use Web Sockets for your data transfer when using STT.  It greatly reduces the latency (as compared to http).
 
