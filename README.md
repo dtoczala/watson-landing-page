@@ -372,6 +372,7 @@ There are some very good sources for current material on best practices with the
 
 - [RSS feed for Cloud Computing blogs on developerWorks](https://developer.ibm.com/dwblog/category/cloud-computing/feed/)
 - [RSS feed for Cognitive Computing blogs on developerWorks](https://developer.ibm.com/dwblog/category/cognitive-computing/feed/)
+- [IBM Watson page on Medium](https://medium.com/ibm-watson) - seems to have quick notes on what is new and what is newsworthy in the Watson world - not always technical, but informative.
 
 _Note: You can also follow your favorite author by subscribing to an RSS feed for just their content.  The RSS feed follows this format:_
 ```
