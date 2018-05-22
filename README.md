@@ -295,11 +295,11 @@ Cognitive architectures are not that different from the architectures for applic
 ## The Importance of Data
 Data is the lifeblood of any cognitive solution.  You need to be aware of [the common challenges that you will face](http://freedville.com/blog/2017/03/05/machine-learning-is-just-the-tip-of-the-iceberg-5-dangers-lurking-below-the-surface/) when working with the data that powers your cognitive solution.  The training processes used with cognitive systems is iterative, and the management of the data to do this training is an ongoing concern.  It's part of the common maintenance that is needed for a truly cognitive system.
 
-### The IBM Data Science Experience (DSX)
-IBM has an environment that will help you with the intersection of data science and machine learning, it's called the [Data Science Experience (DSX)](https://datascience.ibm.com/).  This has a variety of resources and tools to help with your data science projects, and allow you to "unlock" the value hidden in your data.  Below are some interesting links to help you begin using the resources associated with [DSX](https://datascience.ibm.com/).
+### The IBM Watson Studio
+IBM has an environment that will help you with the intersection of data science and machine learning, it's called the [IBM Watson Studio](https://datascience.ibm.com/).  This has a variety of resources and tools to help with your data science projects, and allow you to "unlock" the value hidden in your data.  Below are some interesting links to help you begin using the resources associated with [Watson Studio](https://datascience.ibm.com/).
 
-- [Data Science Experience Documentation](https://datascience.ibm.com/docs/content/getting-started/welcome-main.html) - an ordered set of links to materials to help you get started with DSX.
-- [Watson Machine Learning within the Data Science Experience](https://developer.ibm.com/dwblog/2017/watson-machine-learning-within-ibm-data-science-experience/#main) - a blog post which walks you through setting up a machine learning model for a predictive retail use case.  Walks you through the entire process.
+- [Watson Studio and Watson Knowledge Catalog Documentation](https://datascience.ibm.com/docs/content/getting-started/welcome-main.html) - an ordered set of links to materials to help you get started with Watson Studio.
+- [Watson Machine Learning within the Data Science Experience](https://developer.ibm.com/dwblog/2017/watson-machine-learning-within-ibm-data-science-experience/#main) - a blog post which walks you through setting up a machine learning model for a predictive retail use case.  Walks you through the entire process.  Some of this is out of date, it mentions the Data Science Experience (DSX), which was the predecessor of Watson Studio.
 - [Data Science Experience Community](https://apsportal.ibm.com/community?context=analytics) - a good place to grab tutorials, data sets (yes - real data sets), articles, and notebooks.  Nice place to grab things to get you started.
 
 ### Data Science, Design and User Experience
