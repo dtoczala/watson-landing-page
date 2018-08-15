@@ -19,7 +19,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [Chatbots](https://github.com/dtoczala/watson-landing-page#chatbots)
   - [Customer Care](https://github.com/dtoczala/watson-landing-page#customer-care)
   - [Visual Inspection](https://github.com/dtoczala/watson-landing-page#visual-inspection)
-- **[Watson Integrations](https://github.com/dtoczala/watson-landing-page#watson-integrations)
+- **[Watson Integrations](https://github.com/dtoczala/watson-landing-page#watson-integrations)**
   - [ServiceNow Integration](https://github.com/dtoczala/watson-landing-page#service-now-integration)
 - **[Cognitive Development Topics](https://github.com/dtoczala/watson-landing-page#cognitive-development-topics)**
   - [General Cognitive Development Information](https://github.com/dtoczala/watson-landing-page#general-cognitive-development-information)
