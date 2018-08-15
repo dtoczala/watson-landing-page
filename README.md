@@ -276,6 +276,19 @@ This use case involves a visual inspection of still images using the Visual Reco
 - [Pokemon Go App](https://www.ibm.com/blogs/internet-of-things/pokemon-go-watson/) - Find Pokemon with the help of Watsons Visual Recognition services.
 
 ---
+# Watson Integrations
+
+This is a colection of various popular topics around the idea of Watson integrations.  This is NOT an exhaustive list of potential integrations, or business partner integrations.  It is a list of integrations that we have used, and some tips and ionsights on how to use them.
+
+## Service Now Integration
+
+ServiceNow is a CRM solution that is widely used by many SaaS providers.  There is a pre-built integration between ServiceNow and Watson Assistant - which allows you to easily incorporate Watson conversational capabilities into a ServiceNow implementation.
+
+### References and Further Reading
+
+- [Deploy a Virtual Agent with IBM Watson's Assistant (Conversation) Service](https://community.servicenow.com/community?id=community_blog&sys_id=2e7ca2e1dbd0dbc01dcaf3231f96192b) - article in the ServiceNow community detailing how to obtain a Virtual Agent prebuilt for self service incident deflection, and easily extensible to additional use cases both within and outside ITSM.  Definitely worth a look.
+
+---
 # Cognitive Development Topics
 
 This is a colection of various popular topics within the realm of cognitive development.
