@@ -295,6 +295,7 @@ Cognitive development in general is not always a well understood topic.  Softwar
 
 ### References and Further Reading
 - [Building a Cognitive App in 70 days](https://developer.ibm.com/dwblog/2016/cognitive-solution-70-days-joe-kozhaya/) - An insider take on the critical factors involved in building a cognitive application (the [Watson Business Coach](https://www.ibm.com/cognitive/businesscoach/) ) in only 70 days.
+- [IBM Certified Application Developer - Watson V3](https://www.ibm.com/certify/cert?id=60000101) - get your Watson certification badge.
 
 ## Cognitive Architectures
 Cognitive architectures are not that different from the architectures for applications that you are familiar with.  They just use cognitive capabilities and components that may behave somewhat differently than a more "classical" software component.  You also need to take into account the need for _training_ in your maintenance of a cognitive solution, which adds a new wrinkle to how you architect a cognitive application.
