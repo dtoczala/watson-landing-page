@@ -78,7 +78,7 @@ Once intents and entities are defined in the Assistant service, it is the third 
 **Intents**
 - [Defining Intents](https://www.ibm.com/watson/developercloud/doc/conversation/intents.html) - great starter page with video to help you in defining your intents.
 - [Compund Questions](https://sodoherty.ai/2017/02/06/compound-questions/) - Nice article on a technique for detecting compound questions.
-- [Watson in the White and Black Room](https://sodoherty.ai/2017/02/10/watson-in-the-black-and-white-room/) - Quick article on understanding Watson cofidence scores.
+- [Watson in the White and Black Room](https://sodoherty.ai/2017/02/10/watson-in-the-black-and-white-room/) - Quick article on understanding Watson confidence scores.
 
 **Entities**
 - [Defining Entities](https://www.ibm.com/watson/developercloud/doc/conversation/entities.html) - great starter page with video to help you in defining your entities.
@@ -349,7 +349,7 @@ There are also some good tools available to help you in you testing of your Wats
 ### References for Further Reading
 - [Andrew Freed Blogs](https://developer.ibm.com/watson/blog/author/afreed/) - Andrew has done some thinking about cognitive testing, his blog posts will give you some insight into solid testing approaches.
 - [Cognitive Quality Assurance \- An Introduction](https://brainsteam.co.uk/2016/03/29/cognitive-quality-assurance-an-introduction/) and [Cognitive Quality Assurance \- Performance Metrics](https://brainsteam.co.uk/2016/05/29/cognitive-quality-assurance-pt-2-performance-metrics/) - both authored by James Ravenscroft, with some good advice and introduction to the concepts of accuracy, precision, recall, and confusion matrices.
-- [Watson Cognitive Testing Framework](https://github.com/joe4k/wdcutils/) - a great set of Python Notebooks for measuring the performance of NLC, Discovery, Assistant, R&R, and Visual Recognition.  Also check out the blog post, [Train and evaluate custom machine learning models of Watson Develper Cloud](https://developer.ibm.com/dwblog/2017/machine-learning-custom-models-watson-developer-cloud/), which introduces this framework and discusses how to use it.
+- [Watson Cognitive Testing Framework](https://github.com/joe4k/wdcutils/) - a great set of Python Notebooks for measuring the performance of NLC, Assistant, NLU, and Visual Recognition.  Also check out the blog post, [Train and evaluate custom machine learning models of Watson Develper Cloud](https://developer.ibm.com/dwblog/2017/machine-learning-custom-models-watson-developer-cloud/), which introduces this framework and discusses how to use it.
 
 
 ## Watson/Bluemix Security Concerns
