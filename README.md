@@ -168,7 +168,6 @@ The Natural Language Classifier service applies cognitive computing techniques t
 - [NLC Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248391.html) - A large document with some best practices and some example use cases using NLC.  Very big, lots of details.
 - [Create and train a classifier for Watson’s Natural Language Classifier Service](https://developer.ibm.com/videos/create-and-train-a-classifier-for-watsons-natural-language-classifier-service/) - great video by Ronan Dalton that shows how to create a custom classifier using NLC.
 
-
 ## Personality Insights
 Personality Insights derives insights from written and social media data to identify psychological traits which can influence personal decisions, intent and behavioral traits; all of which can be utilized to improve customer interactions, customer engagement, and customer satisfaction.
 
@@ -182,6 +181,13 @@ Personality Insights derives insights from written and social media data to iden
 **Code**
 - [Personality Insights with Twitter](https://github.com/watson-developer-cloud/personality-insights-twitter-python) - This sample shows how to get Twitter data using the Twitter REST API (via the python-twitter client library) and submit it to the Personality Insights Service.
 - [Your Celebrity Match](https://github.com/watson-developer-cloud/your-celebrity-match) - a sample application that does an analysis of your Twitter traffic, and matches you to a variety of celebrities, based on personality, needs and values.
+
+## OpenScale
+Watson OpenScale allows enterprises to automate and operationalize the AI lifecycle in business applications.  It will help ensure that AI models are free from bias, can be easily explained and understood by business users, and are auditable in business transactions. I OpenScale supports AI models built and run in Watson Studio.  Examples are Watson Machine Learning, Azure ML, Amazon SageMaker, and others.  
+
+### References for Further Reading
+- [Getting Started with OpenScale](https://test.cloud.ibm.com/docs/services/ai-openscale?topic=ai-openscale-gettingstarted#gettingstarted) - The getting started guide.  I STRONGLY recommend going through this, since OpenScale can be a bit tough to wrap your head around at first.
+- [Watson OpenScale API](https://cloud.ibm.com/apidocs/ai-openscale) - The API reference page.
 
 ## Speech to Text and Text to Speech (STT/TTS)
 Speech to Text (STT) and Text to Speech (TTS) are well understood capabilities, so no use in going into a boring explanation.  These are often coupled with [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#natural-language-understanding-nlu) or [Assistant](https://github.com/dtoczala/watson-landing-page#watson-assistant-formerly-conversation), to help form compelling cognitive applications.
