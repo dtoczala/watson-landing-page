@@ -9,6 +9,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page#natural-language-understanding-nlu)
   - [Natural Language Classifier (NLC)](https://github.com/dtoczala/watson-landing-page#natural-language-classifier-nlc)
   - [Personality Insights](https://github.com/dtoczala/watson-landing-page#personality-insights)
+  - [OpenScale](https://github.com/dtoczala/watson-landing-page#openscale)
   - [Speech to Text and Text to Speech (STT/TTS)](https://github.com/dtoczala/watson-landing-page#speech-to-text-and-text-to-speech-stttts)
   - [Tone Analyzer](https://github.com/dtoczala/watson-landing-page#tone-analyzer)
   - [Tradeoff Analytics](https://github.com/dtoczala/watson-landing-page#tradeoff-analytics)
