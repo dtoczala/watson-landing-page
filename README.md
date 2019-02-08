@@ -104,6 +104,7 @@ Once intents and entities are defined in the Assistant service, it is the third 
 
 **Code**
 - [Watson Assistant API Reference](https://www.ibm.com/watson/developercloud/assistant/api/v1) - The API reference page.
+- [Introducing Version Control in Watson Assistant](https://medium.com/ibm-watson/watson-assistant-versions-announcement-d60869b1f5f) - the announcement of the ability to create versions of your Watson Assistant skills, with a nice explanation of how it works. 
 - [Simple Conversation App](https://github.com/watson-developer-cloud/conversation-simple) - A simple sample Node.js app that uses Watson Assistant to power to car dashboard.
 - [10 Steps to Train a Chatbot and its Machine Learning Models to Maximize Performance](
 https://developer.ibm.com/dwblog/2016/10-steps-train-chat-bot-chatbot-machine-learning/) - this outlines the methodology for training chatbots and the associated machine learning models to maximize performance. Although presented in the context of chatbots due to their high popularity, the methodology applies to all cognitive solutions, not just chatbots.
