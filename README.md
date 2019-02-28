@@ -360,8 +360,12 @@ There are also some good tools available to help you in you testing of your Wats
 - [Andrew Freed Blogs](https://developer.ibm.com/watson/blog/author/afreed/) - Andrew has done some thinking about cognitive testing, his blog posts will give you some insight into solid testing approaches.
 - [Cognitive Quality Assurance \- An Introduction](https://brainsteam.co.uk/2016/03/29/cognitive-quality-assurance-an-introduction/) and [Cognitive Quality Assurance \- Performance Metrics](https://brainsteam.co.uk/2016/05/29/cognitive-quality-assurance-pt-2-performance-metrics/) - both authored by James Ravenscroft, with some good advice and introduction to the concepts of accuracy, precision, recall, and confusion matrices.
 - [Watson Cognitive Testing Framework](https://github.com/joe4k/wdcutils/) - a great set of Python Notebooks for measuring the performance of NLC, Assistant, NLU, and Visual Recognition.  Also check out the blog post, [Train and evaluate custom machine learning models of Watson Develper Cloud](https://developer.ibm.com/dwblog/2017/machine-learning-custom-models-watson-developer-cloud/), which introduces this framework and discusses how to use it.
+- [Testing an Express app with SuperTest, moxios and Jest](https://codewithhugo.com/testing-an-express-app-with-supertest-moxios-and-jest/) - a blog post outlining a good approach for testing your Express based apps.
+- [Jest](https://jestjs.io/) - a simple JavaScript testing framework you can use.  I haven't used it yet, but it comes highly recommended.
+- [Codeless Test Automation for IBM Watson Chatbots](https://chatbotsmagazine.com/10-minutes-codeless-test-automation-for-ibm-watson-chatbots-d71eac9626d7) - a great 10 minute read that introduces [Botium](https://www.botium.at/), a no-code chatbot testing tool.
 
 
+ 
 ## Watson/Bluemix Security Concerns
 There are some very real security implications that you will have to consider when developing applications and systems that use the IBM Cloud, and the Watson services hosted on that cloud.
 - **Question:** How do Watson Developer Cloud services handle PII and PHI data?
