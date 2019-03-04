@@ -245,6 +245,7 @@ The Watson Knowledge Studio is used to teach Watson the language of your domain,
 
 ### References for Further Reading
 - [Accelerate Watson model development with a rule-based approach](https://developer.ibm.com/tv/accelerate-watson-model-development-rule-based-approach/) - video showing that sometimes machine learning can be complimented by the use of rules in more deterministic patterns found in the content.  This webinar demonstrates this new feature in WKS to define such patterns in such a way that you do not have to be a programmer of regular expressions to define rules and apply them to annotate content with the resulting model.
+- [WKS Hands-On Tutorial](https://ibm-dte.mybluemix.net/supervised-machine-learning) - a hands on lab that will walk you through the capabilities of Watson Knowledge Studio.  Part of the [Digital Technical Engagement (DTE) site](https://ibm-dte.mybluemix.net/) .
 
 ---
 # Common Use Cases
