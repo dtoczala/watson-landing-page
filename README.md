@@ -209,6 +209,7 @@ Often latency can be an issue with STT, and is is HIGHLY recommended that you yo
 **Code**
 - [Simple Node.js STT App](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - A simple starter app in Node.js that utilizes the Speech to Text service.
 - [Simple Python/WebSockets STT App](https://github.com/watson-developer-cloud/speech-to-text-websockets-python) - A simple starter app in Python, using WebSockets, that utilizes the Speech to Text service.
+- [A Postman Collection for Training IBM Watson Speech to Text](https://medium.com/@ptuton/a-postman-collection-for-training-ibm-watson-speech-to-text-dfdda0c424f0) - a collection of Postman instructions and directions for using them, written by [Peter Tuton](https://github.com/ptuton), that you can use to customize a language model and an acoustic model for your improved Speech-to-Text service.
 
 ## Tone Analyzer
 Tone Analyzer leverages cognitive linguistic analysis to identify a variety of tones at both the sentence and document level. This insight can then used to refine and improve communications. It detects two types of tones, emotion (anger, fear, joy and sadness), and language styles (analytical, confident and tentative) from text.
