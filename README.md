@@ -367,9 +367,7 @@ There are also some good tools available to help you in you testing of your Wats
 - [Jest](https://jestjs.io/) - a simple JavaScript testing framework you can use.  I haven't used it yet, but it comes highly recommended.
 - [Codeless Test Automation for IBM Watson Chatbots](https://chatbotsmagazine.com/10-minutes-codeless-test-automation-for-ibm-watson-chatbots-d71eac9626d7) - a great 10 minute read that introduces [Botium](https://www.botium.at/), a no-code chatbot testing tool.
 
-
- 
-## Watson/Bluemix Security Concerns
+## Watson/IBM Cloud Security Concerns
 There are some very real security implications that you will have to consider when developing applications and systems that use the IBM Cloud, and the Watson services hosted on that cloud.
 - **Question:** How do Watson Developer Cloud services handle PII and PHI data?
   - **Answer:** PHI (Personal Health Information) data should NOT be handled by Watson Developer Cloud services. PII (Personally Identifiable Information), on the other hand may be okay to send to Watson Developer Cloud services. WDC services do not save any data if the user opts-out. If that is NOT sufficient, then the customer has the responsibility of any required de-identifying before sending the data to the Watson services. In certain emergency scenarios, deletion of PII data may be done by IBM team but this is handled on a case-by-case basis (contact Watson Security for any such needs).
@@ -381,7 +379,7 @@ There are some very real security implications that you will have to consider wh
 # Code, Development Resources, and GitHub Repositories
 This section has a list of great places where you can see working code, find development resources, or GitHub repositories with useful content.
 
-- [Application Starter Kits (ASKs)](https://www.ibm.com/watson/developercloud/starter-kits.html) - great collection of common use cases, and code to go with them, which you can use and deploy on Bluemix to see how things work for yourself.
+- [Application Starter Kits (ASKs)](https://www.ibm.com/watson/developercloud/starter-kits.html) - great collection of common use cases, and code to go with them, which you can use and deploy on the IBM Cloud to see how things work for yourself.
 - [Watson Developer Cloud (GitHub)](https://github.com/watson-developer-cloud) - this GitHub repository has commonly used SDK's (software development kits) and code for some interesting demos.  Some of the SDK's included here are listed below, but you should check this site for other less common SDKs as well.
   - [.NET SDK](https://github.com/watson-developer-cloud/dotnet-standard-sdk)
   - [Python SDK](https://github.com/watson-developer-cloud/python-sdk)
@@ -395,8 +393,8 @@ This section has a list of great places where you can see working code, find dev
 # Common Tips and Tricks
 This section will cover some of the common tips and tricks used by cognitive develpment professionals, and covers some of those things that are not addressed in the documentation.
 
-- [Bluemix Tips and Tricks](docs/bluemix_tipstricks.md)
-- [Bluemix Landing Page](https://github.com/dtoczala/bluemix-landing-page) - a similar project to this one, except it is focsed on the Bluemix Platform.
+- [IBM Cloud Tips and Tricks](docs/ibm_cloud_tipstricks.md)
+- [IBM Cloud Landing Page](https://github.com/dtoczala/ibm-cloud-landing-page) - a similar project to this one, except it is focsed on the IBM Cloud Platform.
 
 ## Staying Aware of Watson and Cloud Best practices
 There are some very good sources for current material on best practices with the Watson services.  Often these are published in a few "hotspots", and it's possible for you to monitor these so you are always aware of the latest information.  Here are some RSS feeds to some key "hotspots":
