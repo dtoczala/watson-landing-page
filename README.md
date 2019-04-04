@@ -25,24 +25,24 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [General Cognitive Development Information](https://github.com/dtoczala/watson-landing-page#general-cognitive-development-information)
   - [Cognitive Architectures](https://github.com/dtoczala/watson-landing-page#cognitive-architectures)
   - [The Importance of Data](https://github.com/dtoczala/watson-landing-page#the-importance-of-data)
-  - [DevOps with Cognitive on Bluemix](https://github.com/dtoczala/watson-landing-page#devops-with-cognitive-on-bluemix)
+  - [DevOps with Cognitive on IBM Cloud](https://github.com/dtoczala/watson-landing-page#devops-with-cognitive-on-bluemix)
   - [Testing Approaches and Methods](https://github.com/dtoczala/watson-landing-page#testing-approaches-and-methods)
   - [Watson/Bluemix Security Concerns](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#watsonbluemix-security-concerns)
 - **[Code Development Resources and GitHub Repositories](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#code-development-resources-and-github-repositories)**
 - **[Common Tips and Tricks](https://github.com/dtoczala/watson-landing-page#common-tips-and-tricks)**
-  - [Bluemix Tips and Tricks](docs/bluemix_tipstricks.md)
+  - [IBM Cloud Tips and Tricks](docs/ibm_cloud_tipstricks.md)
   - [Staying Aware of Watson and Cloud Best Practices](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#staying-aware-of-watson-and-cloud-best-practices)
 
 ---
 # Introduction - Getting Started
 
 ## The Watson Developer Cloud
-The Watson Developer Cloud (WDC) is a collection of cogntive services hosted on the [IBM Bluemix](https://console.ng.bluemix.net/) platform.  They are available as cloud based services.  These services include:
-- **[Watson Conversation service](https://console.ng.bluemix.net/catalog/services/conversation/)** - which is used to drive conversations with end users.  Some of the more common use cases include customer care scenarios and chatbots.  Also check out the various Application Starter Kits which uses Watson Conversation to build a chatbot.
-- **[Watson Discovery Service](https://console.ng.bluemix.net/catalog/services/discovery/)** - which is used to answer "long tail" questions, catalog knowledge and information, and retrieve relevant documents.  
+The Watson Developer Cloud (WDC) is a collection of cogntive services hosted on the [IBM Cloud](https://cloud.ibm.com/) platform.  They are available as cloud based services.  These services include:
+- **[Watson Assistant service](https://cloud.ibm.com/catalog/services/watson-assistant)** - which is used to drive conversations with end users.  Some of the more common use cases include customer care scenarios and chatbots.  Also check out the various Application Starter Kits which uses Watson Conversation to build a chatbot.
+- **[Watson Discovery Service](https://cloud.ibm.com/catalog/services/discovery)** - which is used to answer "long tail" questions, catalog knowledge and information, and retrieve relevant documents.  
 
 ### References for Further Reading
-- [Bluemix tutorial](https://console.ng.bluemix.net/docs/admin/adminpublic.html) - A simple getting started tutorial
+- [IBM Cloud Account Setup](https://cloud.ibm.com/docs/account?topic=account-account_setup#account_setup) - A simple set of guidelines for getting started.
 - **[Watson Developer Tools](https://www.ibm.com/watson/developercloud/developer-tools.html)** - a nice landing page with links to Application Starter Kits (ASK's), SDKs, documentation, blogs and videos.
 - [A Beginner's Guide to Artificial Intelligence, Machine Learning, and Cognitive Computing](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html) - nothing Watson specific here, just a high level review of the history of AI, and introduction to some of the basic concepts of AI.
 - [Cloud Architecture Center](https://www.ibm.com/devops/method/category/architectures?cm_mc_uid=59482719098114889125842&cm_mc_sid_50200000=1488912584) - basic architecture concepts and patterns for Cloud and Cognitive development.
@@ -54,7 +54,7 @@ The Watson Developer Cloud (WDC) is a collection of cogntive services hosted on 
 - [IBM Watson Developer Certification Study Guide](https://github.com/havasnewyork/IBM-Watson-Developer-Certification-Study-Guide) - parts of this are out of date, but the review of Cognitive Computing Fundamentals is pretty solid.
 
 **Tools**
-- [Bluemix Console Tool](http://myconsole.mybluemix.net/\#/dashboard) - Cool tool deployed on Bluemix that will show you all of your Bluemix services, spaces, applications, and organizations.
+- [IBM Cloud Console Tool](http://myconsole.mybluemix.net/\#/dashboard) - Cool tool deployed on IBM Cloud that will show you all of your IBM Cloud services, spaces, applications, and organizations.
 
 ---
 # Watson Services and APIs
@@ -63,7 +63,7 @@ The following section will focus on the various Watson services and API's, provi
 ## Watson Assistant (formerly Conversation)
 The Watson Assistant was formerly called Watson Conversation.  The name was changed in March 2018.
 
-The Assistant service allows you to add a natural language interface to your application, to automate interactions with your end users. Common applications include virtual agents and chat bots that can integrate and communicate on any channel or device.  The [car dashboard chatbot](https://console.bluemix.net/developer/watson/starter-kits/watson-assistant-basic) on the [Application Starter Kits (ASKs) page](https://console.bluemix.net/developer/watson/starter-kits) is an excellent example of a chatbot application, with code and instructions on how to implement this on [IBM Cloud](https://console.ng.bluemix.net/).
+The Assistant service allows you to add a natural language interface to your application, to automate interactions with your end users. Common applications include virtual agents and chat bots that can integrate and communicate on any channel or device.  The [car dashboard chatbot](https://cloud.ibm.com/developer/watson/starter-kits/45fe1f9a-5d31-36c6-9ad1-3affa9b49d49/watson-assistant-basic) on the [Application Starter Kits (ASKs) page](https://cloud.ibm.com/developer/watson/starter-kits) is an excellent example of a chatbot application, with code and instructions on how to implement this on [IBM Cloud](https://cloud.ibm.com/).
 
 The tooling used to "develop" the Assistant service consists of three parts.  The first part deals with user intents.  The purpose of intents is to map “what a user says” to “what a user means”. Because of the wide variety of utterances users say to mean the same intent, Watson Assistant leverages deep learning technology to extract intents from utterances. You, as the app developer, have complete control in defining what intents are relevant to your application. Once you’ve defined your list of intents, you need to teach Watson how to recognize these intents by providing it with sample utterances and how they map to these intents. Probably the most common question we get from developers is “how many sample utterances do I need to provide”. While the tool requires a minimum of five sample utterances, the general guideline is “the more the better”. We’ve typically seen good results with 20-30 sample utterances per intent. The key observation is to try and capture real end-user input utterances and then map those to the intents you’ve defined for your application.
 
@@ -100,7 +100,7 @@ Once intents and entities are defined in the Assistant service, it is the third 
 - [How to build an enhanced chatbot with Watson Conversation](https://developer.ibm.com/recipes/tutorials/how-to-build-an-enhanced-chatbot-with-watson-conversation/) - tutorial shows how to build a Watson chatbot that is integrated with Facebook Messenger.
 - [Create a news chatbot to deliver content through Facebook Messenger](https://www.ibm.com/developerworks/library/cc-cognitive-chatbot-facebook/index.html) - this three part series goes over creating a chatbot application that integrates with Facebook and Slack.  The orchestration application is written in Java.
 - [Learn how to export & import a Watson Assistant workspace](https://github.com/rodalton/export-import-wa-workspace) - great little guide done by [Ronan Dalton](https://github.com/rodalton) (with curl examples) of how to migrate your work via API calls from one Watson Assistant workspace to another.
-- [Watson Conversation: How to Manage Workspaces](https://www.ibm.com/blogs/bluemix/2017/04/watson-conversation-manage-workspaces/) - great article and [code for a Watson Assistant workspace management tool](https://github.com/data-henrik/watson-conversation-tool.
+- [Watson Conversation: How to Manage Workspaces](https://www.ibm.com/blogs/bluemix/2017/04/watson-conversation-manage-workspaces/) - great article and [code for a Watson Assistant workspace management tool](https://github.com/data-henrik/watson-conversation-tool).
 
 **Code**
 - [Watson Assistant API Reference](https://www.ibm.com/watson/developercloud/assistant/api/v1) - The API reference page.
@@ -156,7 +156,7 @@ It has replaced most of the functionality that was exposed in the [Alchemy Langu
 ### References for Further Reading
 - [NLU API Reference](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) - The API reference page.
 - [NLU Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248398.html?Open) - A large document with some best practices and an example use case using NLU.  Very big, lots of details.
-- [NLU Categories Hierarchy](https://console.bluemix.net/docs/services/natural-language-understanding/categories.html#categories-hierarchy) - from the online docs, a list of the categories hierarchy returned by NLU.  See if this breakdown will work for your use case.
+- [NLU Categories Hierarchy](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-categories-hierarchy#categories-hierarchy) - from the online docs, a list of the categories hierarchy returned by NLU.  See if this breakdown will work for your use case.
 
 **Code**
 - [Chatbot with Conversation, NLU and Weather](https://developer.ibm.com/dwblog/2017/chatbot-watson-conversation-natural-language-understanding-nlu/) - developerWorks article that walks you through setting up and cloning a project that will build a chatbot that uses Assistant, NLU and Weather.  Good example and you can poke through the code.
@@ -176,7 +176,7 @@ Watson OpenScale allows enterprises to automate and operationalize the AI lifecy
 
 ### References for Further Reading
 - [Getting Started with OpenScale](https://test.cloud.ibm.com/docs/services/ai-openscale?topic=ai-openscale-gettingstarted#gettingstarted) - The getting started guide.  I STRONGLY recommend going through this, since OpenScale can be a bit tough to wrap your head around at first.
-- [Watson Open Scale Introduction](https://ibm-dte.mybluemix.net/ai-openscale) - this include a [hands on lab](https://www.ibm.com/cloud/garage/dte/tutorial/trust-and-transparency-your-machine-learning-models-ai-openscale), and will be populating with other materials in the near future.
+- [Watson Open Scale Introduction](https://ibm-dte.mybluemix.net/ai-openscale) - this includes a [hands on lab](https://www.ibm.com/cloud/garage/dte/tutorial/trust-and-transparency-your-machine-learning-models-ai-openscale), and will be populating with other materials in the near future.
 - [Watson OpenScale API](https://cloud.ibm.com/apidocs/ai-openscale) - The API reference page.
 
 ## Personality Insights
@@ -233,8 +233,7 @@ Often when doing analysis of pictures, it is useful to "tile" the image, and bre
 ### References for Further Reading
 - [Visual Recognition API Reference](https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/) - The API reference page.
 - [Visual Recognition Command Line Interface](https://developer.ibm.com/dwblog/2017/command-line-tools-watson-visual-recognition/) - doing training and classification can be easier from the command line.
-- [Sharpen Watson Visual Recognition Results](https://www.ibm.com/blogs/bluemix/2017/03/sharpen-watson-visual-recognition-results/) - Great blog by Andy Trice, his blog explains how to use "tile localization" to help your classifiers find details in images, and includes [the code for doing this](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) on GitHub, which will run on Bluemix as-is.
-- [Best Practice for Training Custom Classifiers](https://www.ibm.com/blogs/bluemix/2016/10/watson-visual-recognition-training-best-practices/) - article outlining some good approaches and best practices for custom classifiers.
+- [Sharpen Watson Visual Recognition Results](https://www.ibm.com/blogs/bluemix/2017/03/sharpen-watson-visual-recognition-results/) - Great blog by Andy Trice, his blog explains how to use "tile localization" to help your classifiers find details in images, and includes [the code for doing this](https://github.com/IBM-Bluemix/Visual-Recognition-Tile-Localization) on GitHub, which will run on IBM Cloud as-is.
 - [Guidelines for Training Custom Classifiers](https://www.ibm.com/watson/developercloud/doc/visual-recognition/customizing.html) - some basic guidance on training custom classifiers from the online documentation.
 - [Visual Recognition Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248393.html) - A large document with some best practices and some example use cases using Visual Recognition.  Very big, lots of details.
 - [Chihuahua or Muffin Revisited](https://sodoherty.ai/2017/09/28/chihuahua-or-muffin-revisited/) - funny demo that trains a visual classifier to detect dogs or food.
@@ -345,12 +344,12 @@ Data science manages to surface data and information from large data sets, to he
 - [The 50 Best Free Datasets for Machine Learning](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/) - 50 solid free datasets for machine learning models.  Nice collection of resources here.
 
 
-## DevOps with Cognitive on Bluemix
-The topic of DevOps when working in Bluemix is deserving of it's own "landing page".  The open cloud platform and the ability to apply the [Continuous Delivery](https://console.ng.bluemix.net/devops/getting-started) service, along with it's support for toolchains, means that you have a lot of options when configuring your Bluemix environment to promote best practices and DevOps principles.
+## DevOps with Cognitive on IBM Cloud
+The topic of DevOps when working in IBM Cloud is deserving of it's own "landing page".  The open cloud platform and the ability to apply the [Continuous Delivery](https://cloud.ibm.com/docs/overview?topic=overview-dev-journey#devops) service, along with it's support for toolchains, means that you have a lot of options when configuring your IBM Cloud environment to promote best practices and DevOps principles.
 
 ### References for Further Reading
-- [Setting up your Bluemix environment](https://console.ng.bluemix.net/docs/admin/patterns.html#patterns) - Not a lot of guidance here, but this documentation page on Bluemix has a lot of the basic information that you will need to understand when setting up a DevOps supported development environment for your cloud and cognitive development.
-- [Full Cycle Cognitive Development (4 part series)](https://dtoczala.wordpress.com/2017/02/02/full-cycle-cognitive-development-part-1-business-concepts/) - A series by D. Toczala on the concerns, tools, and strategies for doing Cognitive development, from ideation through build and maintenance.
+- [Design the structure of your IBM Cloud Foundry Enterprise Environment](https://cloud.ibm.com/docs/cloud-foundry?topic=cloud-foundry-bpimplementation#bpimplementation) - Guidance focused on Cloud Foundry Enterprise Environments (CFEE), helping you on your orgs and spaces.
+a- [Full Cycle Cognitive Development (4 part series)](https://dtoczala.wordpress.com/2017/02/02/full-cycle-cognitive-development-part-1-business-concepts/) - A series by D. Toczala on the concerns, tools, and strategies for doing Cognitive development, from ideation through build and maintenance.
 
 ## Testing Approaches and Methods
 When looking at testing Cognitive systems, we run into issues that are new to software developers.  Cognitive systems are _trained_, and they may be non-deterministic.  So we have to apply some different principles and techniques when we test cognitive systems.
