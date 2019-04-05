@@ -349,7 +349,8 @@ The topic of DevOps when working in IBM Cloud is deserving of it's own "landing 
 
 ### References for Further Reading
 - [Design the structure of your IBM Cloud Foundry Enterprise Environment](https://cloud.ibm.com/docs/cloud-foundry?topic=cloud-foundry-bpimplementation#bpimplementation) - Guidance focused on Cloud Foundry Enterprise Environments (CFEE), helping you on your orgs and spaces.
-a- [Full Cycle Cognitive Development (4 part series)](https://dtoczala.wordpress.com/2017/02/02/full-cycle-cognitive-development-part-1-business-concepts/) - A series by D. Toczala on the concerns, tools, and strategies for doing Cognitive development, from ideation through build and maintenance.
+- [Data and AI — Data Dev Ops Rules of Engagement](http://ibm.biz/datadevops) - You MUST take care of your data, and subject it to the same types of DevOps principles that you use for everything else in your software development environment.  [Anna Chaney](https://medium.com/@anna_seg) tells you what you need to focus on.
+- [Full Cycle Cognitive Development (4 part series)](https://dtoczala.wordpress.com/2017/02/02/full-cycle-cognitive-development-part-1-business-concepts/) - A series by D. Toczala on the concerns, tools, and strategies for doing Cognitive development, from ideation through build and maintenance.
 
 ## Testing Approaches and Methods
 When looking at testing Cognitive systems, we run into issues that are new to software developers.  Cognitive systems are _trained_, and they may be non-deterministic.  So we have to apply some different principles and techniques when we test cognitive systems.
