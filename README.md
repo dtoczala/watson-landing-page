@@ -74,7 +74,6 @@ Once intents and entities are defined in the Assistant service, it is the third 
 ### References for Further Reading
 - [Cognitive Class - How to Build a Chatbot](https://cognitiveclass.ai/courses/how-to-build-a-chatbot/) - a Cognitive Class offering that will help you build up and learn how to build your own chatbot.
 - [Conversation Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248394.html) - A large document with some best practices and example use cases using Assistant.  Very big, lots of details.
-- [The Socratic Method for Bot Writers](https://www.pullstring.com/blog/socratic-method) - great blog post on what to consider when planning and building a chatbot.  Planning and thought up front can have a huge impact on the value of your chatbot.
 - [Watson Assistant Continuous Improvement Best Practices](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=54022554USEN) - nice whitepaper that you can download which highlights some best practices to set up a continuopus improvement environment for a deployed application with Watson Assistant.  Not a lot on the DevOps pieces, but more focused on the "How do I test it? How do I improve it?" questions.
 
 **Intents**
