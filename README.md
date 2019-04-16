@@ -77,7 +77,7 @@ Once intents and entities are defined in the Assistant service, it is the third 
 - [Watson Assistant Continuous Improvement Best Practices](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=54022554USEN) - nice whitepaper that you can download which highlights some best practices to set up a continuopus improvement environment for a deployed application with Watson Assistant.  Not a lot on the DevOps pieces, but more focused on the "How do I test it? How do I improve it?" questions.
 
 **Intents**
-- [Defining Intents](https://www.ibm.com/watson/developercloud/doc/conversation/intents.html) - great starter page with video to help you in defining your intents.
+- [Defining Intents](https://cloud.ibm.com/docs/services/assistant?topic=assistant-intents#intents) - great starter page with video to help you in defining your intents.
 - [Compund Questions](https://sodoherty.ai/2017/02/06/compound-questions/) - Nice article on a technique for detecting compound questions.
 - [Watson in the White and Black Room](https://sodoherty.ai/2017/02/10/watson-in-the-black-and-white-room/) - Quick article on understanding Watson confidence scores.
 
