@@ -300,7 +300,7 @@ ServiceNow is a CRM solution that is widely used by many SaaS providers.  There 
 ---
 # Cognitive Development Topics
 
-This is a colection of various popular topics within the realm of cognitive development.
+This is a colection of various popular topics within the realm of cognitive development.  Before you dive in and beginn building that first Watson driven application, you probably want to check out the [IBM Watson Coding Tips and Tricks](docs/coding_tips.md).  This is a colection of observations and lessons learned from people actually **_building things_** with the IBM Watson services.
 
 ## General Cognitive Development Information
 Cognitive development in general is not always a well understood topic.  Software development teams are unfamiliar with the changes to typical concerns and iterations that a cognitive development project will have.  Teams often have incorrect expectations, and underestimate the importance of data, as well as the number of training iterations required to build a highly effective cognitive model.
