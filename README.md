@@ -88,6 +88,7 @@ Once intents and entities are defined in the Assistant service, it is the third 
 **Dialog**
 - [Building Dialogs](https://www.ibm.com/watson/developercloud/doc/conversation/dialog-build.html) - great starter page with video to help you in defining your entities.  It's a long page, but building a dialog can be a complex task.
 - [SpEL Language Guide]() - Valid expressions in conditions are written in the Spring Expression (SpEL) language.  This is a reference guide for the SpEL language.
+- [Using Advanced Dialog Features](https://medium.com/ibm-watson/using-advanced-dialog-features-in-watson-conversation-5c0cea89e9b3) - great article with some tips on how to address some common challenges in Dialog flows, like counters, handling multiple intents, handling topic switches, and using pattern entities.
 - [Recursive Questions with Conversations](https://ollycox.me/2016/10/21/recursive-questions-with-ibm-watson-conversations/) - a quick post showing how to disambiguate user utterances, without driving the end user crazy.
 - [Pattern for Gathering Information with Conversation](https://ollycox.me/2016/11/18/pattern-for-gathering-information-in-ibm-watson-conversations/) - an example (with code) of gathering multiple pieces of information in a Conversation flow.
 - [Gathering Information with Conversation](https://medium.com/@snrubnomis/gathering-information-with-ibm-watson-conversation-e23887ccbe3d) - a nice example using a pizza ordering use case that demonstrates using "frames" in Conversation to collect a series of inputs from a user.
