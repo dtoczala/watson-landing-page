@@ -5,7 +5,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
 - **[Watson Services and APIs](https://github.com/dtoczala/watson-landing-page#watson-services-and-apis)**
   - [Watson Assistant](https://github.com/dtoczala/watson-landing-page#watson-assistant-formerly-conversation)
   - [Discovery](https://github.com/dtoczala/watson-landing-page#discovery)
-  - [Alchemy API](https://github.com/dtoczala/watson-landing-page#alchemy-api)
+  - [Language Translator](https://github.com/dtoczala/watson-landing-page#language-translator)
   - [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page#natural-language-understanding-nlu)
   - [Natural Language Classifier (NLC)](https://github.com/dtoczala/watson-landing-page#natural-language-classifier-nlc)
   - [OpenScale](https://github.com/dtoczala/watson-landing-page#openscale)
@@ -135,18 +135,14 @@ Another interesting feature of Discovery is that it comes preinstalled with a Wa
 - [Example of Conversation and Discovery Integration](https://www.youtube.com/watch?v=SasXUqBE-38&feature=youtu.be) - This YouTube video shows an example of a Java application that integrates the Assistant and Discovery services.
 - [Build a configurable, retail-ready chatbot](https://developer.ibm.com/code/journey/create-cognitive-retail-chatbot/) - this is a good example of integrating usage of [Assistant](https://github.com/dtoczala/watson-landing-page#watson-assistant-formerly-conversation) and [Discovery](https://github.com/dtoczala/watson-landing-page#discovery), along with some other things.  It includes code as well.
 
-## Alchemy API
-The Alchemy API is being deprecated, and will not be available for the creation of new Alchemy instances on April 7, 2017.  Existing Alchemy API instances will remain functional until March 7, 2018.  Because of this, we strongly suggest starting new development with NLU or Discovery.  We will not be actively maintaining links to resources in this area.
-
-Users who utilized Alchemy Language in the past are now encouraged to use the [Natural Language Understanding (NLU)](https://github.com/dtoczala/watson-landing-page#natural-language-understanding-nlu) service.
-
-Users who utilized Alchemy Data News in the past are now encouraged to use the Watson [Discovery](https://github.com/dtoczala/watson-landing-page#discovery) service.
+## Language Translator
+From translating documents, apps, and websites to creating multilingual chatbots, what will you build? Instantly translate your content into multiple languages. Add on to your base translation model via corpus customization; which allows you to create your own translation models which account for regional or industry-specific terms. 
 
 ### References for Further Reading
-- [Top 3 reasons to move from AlchemyLanguage to Watson Natural Language Understanding](https://www.ibm.com/blogs/watson/2017/05/top-3-reasons-move-alchemylanguage-watson-natural-language-understanding) - Not technical, but does highlight three good reasons to migrate from Alchemy to [NLU](https://github.com/dtoczala/watson-landing-page#natural-language-understanding-nlu) sooner rather than later.
-- [How to Migrate from Alchemy Lanaguage to NLU](https://www.ibm.com/watson/developercloud/doc/natural-language-understanding/migrating.html) - the official guide for migrating to the NLU service.
-- [How to Migrate from Alchemy Data News to Discovery](https://www.ibm.com/watson/developercloud/doc/discovery/migrate-adn.html) - the official guide for migrating to the Watson Discovery service.
-- [Alchemy API Migration - Tips and Tricks](docs/Alchemy_migrate.md) - answers to some of the more common questions that are not addressed in the documentation.
+- [LT API Reference](https://cloud.ibm.com/apidocs/language-translator) - The API reference page.
+- [LT Documentation](https://cloud.ibm.com/docs/services/language-translator/getting-started.html) 
+- [What's New](https://cloud.ibm.com/docs/services/language-translator?topic=language-translator-release-notes) - Our release notes show you all the exciting things that have come out
+- [Build multilingual chatbots](https://medium.com/ibm-watson/build-multilingual-chatbots-with-watson-language-translator-watson-assistant-8c38247e8af1) A common use case and demo showcasing how ou can build multilingual conversational assistants!
 
 ## Natural Language Understanding (NLU)
 The NLU service allows you to analyze text to extract meta-data from supplied content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles.  It also has the capability to be used in conjunction with custom annotation models developed using Watson Knowledge Studio, enabling you to identify industry/domain specific entities and relations in unstructured text.
