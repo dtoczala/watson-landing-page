@@ -245,6 +245,14 @@ The Watson Knowledge Studio is used to teach Watson the language of your domain,
 - [Accelerate Watson model development with a rule-based approach](https://developer.ibm.com/tv/accelerate-watson-model-development-rule-based-approach/) - video showing that sometimes machine learning can be complimented by the use of rules in more deterministic patterns found in the content.  This webinar demonstrates this new feature in WKS to define such patterns in such a way that you do not have to be a programmer of regular expressions to define rules and apply them to annotate content with the resulting model.
 - [WKS Hands-On Tutorial](https://ibm-dte.mybluemix.net/supervised-machine-learning) - a hands on lab that will walk you through the capabilities of Watson Knowledge Studio.  Part of the [Digital Technical Engagement (DTE) site](https://ibm-dte.mybluemix.net/) .
 
+## Watson Studio
+Watson Studio is an environment which encompasses a variety of tools, capabilities, and services.  It supports the use of [Jupyter notebooks](https://jupyter.org/) (for Python), [R Studio](https://www.rstudio.com/), Watson Machine Learning, and other machine learning technologies (like TensorFlow, Caffe, and Keras).  The Watson Studio environment will allow you to clean and prepare data, and then use that data to build a variety of different types of machine learning models which can then be used to help provide some level of business intelligence and analytics capability.
+
+The [Jupyter Python](https://jupyter.org/) environment is the one that I am most familiar with.  The experience in Watson Studio is comparable to what you get when running on your own local machine.  You can share and collaborate on your work with other team memebrs, and you have the ability to easily develop your Python code and access a wide variety of IBM Cloud resources, from Watson services, to IBM Cloud data storage solutions, to various database services on the IBM Cloud.  
+
+### References for Further Reading
+Under construction.....
+
 ---
 # Common Use Cases
 This section will cover some of the basic patterns and cognitive use cases that are implemented using the Watson services.  Ryan Anderson has a blog post on [common design patterns and use cases for cognitive development](https://www.linkedin.com/pulse/cognitive-bucket-list-leveraging-design-patterns-value-ryan-anderson) which I suggest you take 5 minutes to read.
