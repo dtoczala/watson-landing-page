@@ -15,6 +15,7 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [Tradeoff Analytics](https://github.com/dtoczala/watson-landing-page#tradeoff-analytics)
   - [Visual Recognition](https://github.com/dtoczala/watson-landing-page#visual-recognition)
   - [Watson Knowledge Studio](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#watson-knowledge-studio-wks)
+  - [Watson Studio](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#watson-studio)
 - **[Common Use Cases](https://github.com/dtoczala/watson-landing-page#common-use-cases)**
   - [Chatbots](https://github.com/dtoczala/watson-landing-page#chatbots)
   - [Customer Care](https://github.com/dtoczala/watson-landing-page#customer-care)
