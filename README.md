@@ -252,7 +252,10 @@ Watson Studio is an environment which encompasses a variety of tools, capabiliti
 The [Jupyter Python](https://jupyter.org/) environment is the one that I am most familiar with.  The experience in Watson Studio is comparable to what you get when running on your own local machine.  You can share and collaborate on your work with other team memebrs, and you have the ability to easily develop your Python code and access a wide variety of IBM Cloud resources, from Watson services, to IBM Cloud data storage solutions, to various database services on the IBM Cloud.  
 
 ### References for Further Reading
-Under construction.....
+- [Watson Studio and Watson Knowledge Catalog Documentation](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-ws.html) - an ordered set of links to materials to help you get started with Watson Studio.
+- [A Visual Intro into NumPy](https://jalammar.github.io/visual-numpy/?utm_source=hackernewsletter&utm_medium=email&utm_term=data) - since we use a lot of Python in Watson Studio, you should be familiar with Python and NumPy is one of the basic Python libraries that EVERYONE uses.
+- [Watson Machine Learning within the Data Science Experience](https://developer.ibm.com/dwblog/2017/watson-machine-learning-within-ibm-data-science-experience/#main) - a blog post which walks you through setting up a machine learning model for a predictive retail use case.  Walks you through the entire process.  Some of this is out of date, it mentions the Data Science Experience (DSX), which was the predecessor of Watson Studio.
+- [Data Science Experience Community](https://apsportal.ibm.com/community?context=analytics) - a good place to grab tutorials, data sets (yes - real data sets), articles, and notebooks.  Nice place to grab things to get you started.
 
 ---
 # Common Use Cases
@@ -326,12 +329,7 @@ Cognitive architectures are not that different from the architectures for applic
 Data is the lifeblood of any cognitive solution.  You need to be aware of [the common challenges that you will face](http://freedville.com/blog/2017/03/05/machine-learning-is-just-the-tip-of-the-iceberg-5-dangers-lurking-below-the-surface/) when working with the data that powers your cognitive solution.  The training processes used with cognitive systems is iterative, and the management of the data to do this training is an ongoing concern.  It's part of the common maintenance that is needed for a truly cognitive system.
 
 ### The IBM Watson Studio
-IBM has an environment that will help you with the intersection of data science and machine learning, it's called the [IBM Watson Studio](https://datascience.ibm.com/).  This has a variety of resources and tools to help with your data science projects, and allow you to "unlock" the value hidden in your data.  Below are some interesting links to help you begin using the resources associated with [Watson Studio](https://datascience.ibm.com/).
-
-- [Watson Studio and Watson Knowledge Catalog Documentation](https://datascience.ibm.com/docs/content/getting-started/welcome-main.html) - an ordered set of links to materials to help you get started with Watson Studio.
-- [A Visual Intro into NumPy](https://jalammar.github.io/visual-numpy/?utm_source=hackernewsletter&utm_medium=email&utm_term=data) - since we use a lot of Python in Watson Studio, you should be familiar with Python and NumPy is one of the basic Python libraries that EVERYONE uses.
-- [Watson Machine Learning within the Data Science Experience](https://developer.ibm.com/dwblog/2017/watson-machine-learning-within-ibm-data-science-experience/#main) - a blog post which walks you through setting up a machine learning model for a predictive retail use case.  Walks you through the entire process.  Some of this is out of date, it mentions the Data Science Experience (DSX), which was the predecessor of Watson Studio.
-- [Data Science Experience Community](https://apsportal.ibm.com/community?context=analytics) - a good place to grab tutorials, data sets (yes - real data sets), articles, and notebooks.  Nice place to grab things to get you started.
+IBM has an environment that will help you with the intersection of data science and machine learning, it's called the [IBM Watson Studio](https://dataplatform.cloud.ibm.com/home).  This has a variety of resources and tools to help with your data science projects, and allow you to "unlock" the value hidden in your data.  Check out the section of this landing page devoted to [Watson Studio](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#watson-studio).
 
 ### Data Science, Design and User Experience
 Data science manages to surface data and information from large data sets, to help us understand better.  Design and user experience design help bring this data, and it's insights, to life for your end user.  Any powerful application that delights it's end users will have both a strong user experience, and a strong data science component.  Here is some suggested reading on the intersection of design and data.
