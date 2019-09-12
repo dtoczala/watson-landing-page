@@ -131,6 +131,7 @@ Another interesting feature of Discovery is that it comes preinstalled with a Wa
 
 **Code**
 - [Sample UI and code pattern for Discovery with Node,js](https://developer.ibm.com/code/patterns/create-an-app-to-perform-intelligent-searches-on-data/) - the demo video is 15 minutes long, and you can just go and grab the code out of GitHub.  Nice way to get yourself kickstarted with using Discovery with Node,js.
+- [Finding Custom Models in Discovery](https://dtoczala.wordpress.com/2019/09/12/finding-custom-models-in-watson-discovery/) - a quick bit of Python code that tells you where you have custom models applied in your Discovery instance.  Nice example of using the Python SDK.
 
 **Integration**
 - [8 steps for developing question answer solutions using Watson Conversation and Watson Discovery](https://developer.ibm.com/dwblog/2017/best-practices-developing-question-answer-solutions-watson-conversation-discovery/?social_post=1230338742&fst=Discover) - Excellent overview of how to develop an Expert Advisor or Q&A system using Watson Assistant and Watson Discovery.  Great real-world advice from two guys who have done this themselves.
@@ -357,7 +358,7 @@ Data science manages to surface data and information from large data sets, to he
 The topic of DevOps when working in IBM Cloud is deserving of it's own "landing page".  The open cloud platform and the ability to apply the [Continuous Delivery](https://cloud.ibm.com/docs/overview?topic=overview-dev-journey#devops) service, along with it's support for toolchains, means that you have a lot of options when configuring your IBM Cloud environment to promote best practices and DevOps principles.
 
 ### References for Further Reading
--[All-In-One Tool for Backing Up IBM Cloud and Watson Services](https://github.com/modlanglais/ibm-cloud-backup) - a Python project, led by [Morgan Langlais](https://github.com/modlanglais), out on GitHub which will backup (and eventually restore) your IBM Cloud and IBM Watson repositories and services.
+- [All-In-One Tool for Backing Up IBM Cloud and Watson Services](https://github.com/modlanglais/ibm-cloud-backup) - a Python project, led by [Morgan Langlais](https://github.com/modlanglais), out on GitHub which will backup (and eventually restore) your IBM Cloud and IBM Watson repositories and services.
 - [Design the structure of your IBM Cloud Foundry Enterprise Environment](https://cloud.ibm.com/docs/cloud-foundry?topic=cloud-foundry-bpimplementation#bpimplementation) - Guidance focused on Cloud Foundry Enterprise Environments (CFEE), helping you on your orgs and spaces.
 - [Data and AI — Data Dev Ops Rules of Engagement](http://ibm.biz/datadevops) - You MUST take care of your data, and subject it to the same types of DevOps principles that you use for everything else in your software development environment.  [Anna Chaney](https://medium.com/@anna_seg) tells you what you need to focus on.
 - [Full Cycle Cognitive Development (4 part series)](https://dtoczala.wordpress.com/2017/02/02/full-cycle-cognitive-development-part-1-business-concepts/) - A series by D. Toczala on the concerns, tools, and strategies for doing Cognitive development, from ideation through build and maintenance.
