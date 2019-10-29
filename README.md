@@ -270,6 +270,7 @@ This section will cover some of the basic patterns and cognitive use cases that 
 Chatbots are popular right now, and they can help serve a real purpose.  Many customers use them for customer care and customer support scenarios.  They have been integrated into a number of different communications channels, and they can often do the repetitive work associated with common customer questions and requests.
 
 ### References for Further Reading
+- [The Bots are Coming](https://medium.com/@snrubnomis/the-bots-are-coming-b0fa71475381) - an interesting overview on what is important to remember when you begin to build out your chatbot.  Quick read - good perspective.
 - [Short-tail, Long-tail, and Human-tail Chatbots](http://fredrikstenbeck.com/short-tail-long-tail-and-human-tail-chatbot/) - I don't agree with EVERYTHING this guy says, but he lays out a nice, quick explanation of the various depths/degrees that chatbots get to.  A good way to explain the difference between short-tail and long-tail questions.
 - [Build a Wikipedia Factoid Bot](https://medium.com/@biosopher/wikipedia-factoid-bot-1-of-6-intro-and-configure-demo-code-884d6c2ac35e\#.zex5raoru) - a six part series taking you through building a factoid bot based on [Wikipedia](https://www.wikipedia.org/), which also shows an integration with the Watson Alchemy service.
 - [Build an IT Support Chatbot with Watson Assistant](https://www.ibm.com/cloud/garage/tutorials/watson_conversation_support) - great tutorial and guide for building your first chatbot.
