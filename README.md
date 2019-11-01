@@ -143,6 +143,7 @@ Another interesting feature of Discovery is that it comes preinstalled with a Wa
 From translating documents, apps, and websites to creating multilingual chatbots, what will you build? Instantly translate your content into multiple languages. Add on to your base translation model via corpus customization; which allows you to create your own translation models which account for regional or industry-specific terms. 
 
 ### References for Further Reading
+- [Document Translation Made Easy with Watson Language Translator](https://www.youtube.com/watch?v=NoQr-6KQwEE) - a great video by [Ronan Dalton](https://github.com/rodalton), which takes you through setting up language translator to translate a document from one language to another.  Simple and easy to follow - takes less than 10 minutes.
 - [LT API Reference](https://cloud.ibm.com/apidocs/language-translator) - The API reference page.
 - [LT Documentation](https://cloud.ibm.com/docs/services/language-translator/getting-started.html) 
 - [What's New](https://cloud.ibm.com/docs/services/language-translator?topic=language-translator-release-notes) - Our release notes show you all the exciting things that have come out
@@ -169,7 +170,7 @@ The Natural Language Classifier service applies cognitive computing techniques t
 - [NLC Best Practices](https://www.ibm.com/watson/assets-watson/pdf/Watson-NLC-Links-Best-Practices-Design-Patterns.pdf) - a quick slide deck reviewing some best practices and design patterns for NLC.
 - [NLC Handbook](https://ibm.box.com/s/rdlog2sue79178816s0rabkbi7ifu5vg) - A PDF with guidance, links to materials and code, and best practices for Natural Language Classifier.
 - [NLC Redbook](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248391.html) - A large document with some best practices and some example use cases using NLC.  Very big, lots of details.
-- [Create and train a classifier for Watson’s Natural Language Classifier Service](https://developer.ibm.com/videos/create-and-train-a-classifier-for-watsons-natural-language-classifier-service/) - great video by Ronan Dalton that shows how to create a custom classifier using NLC.
+- [Create and train a classifier for Watson’s Natural Language Classifier Service](https://developer.ibm.com/videos/create-and-train-a-classifier-for-watsons-natural-language-classifier-service/) - great video by [Ronan Dalton](https://github.com/rodalton) that shows how to create a custom classifier using NLC.
 
 ## OpenScale
 Watson OpenScale allows enterprises to automate and operationalize the AI lifecycle in business applications.  It will help ensure that AI models are free from bias, can be easily explained and understood by business users, and are auditable in business transactions. I OpenScale supports AI models built and run in Watson Studio.  Examples are Watson Machine Learning, Azure ML, Amazon SageMaker, and others.  
