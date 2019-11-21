@@ -127,6 +127,7 @@ Another interesting feature of Discovery is that it comes preinstalled with a Wa
 
 ### References for Further Reading
 - [Discovery API Reference](https://www.ibm.com/watson/developercloud/discovery/api/v1/) - The API reference page.
+- [Watson Discovery at the Size You Want](https://dtoczala.wordpress.com/2019/11/19/watson-discovery-at-the-size-you-want/) - a blog post that helps you determine the size that you will need for your Discovery instance, as well as the costs associated with it.  It also helps you make sure that you deploy the correct sized repository.
 - [Explore the news and gather insights using Watson Discovery](https://www.ibm.com/developerworks/library/cc-watson-discovery-service-bluemix-explore/) - Nice tutorial on how to use the news reading and curation capabilities in the Discover services, and how to use some of the basic functionality to get insights into what the news is.
 - [The IBM Advantage for Cognitive Discovery Cloud Architecture](https://www.ibm.com/cloud/garage/files/IBM-Advantage-Paper-for-Cognitive-Discovery.pdf) - hesitated to add this because it is a LITTLE bit of a "rah-rah" sales pitch.  However, it does a nice job of explaining the Discovery service, shares some reference architectures, and talks about the importance of good data and data handling.
 
