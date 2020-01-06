@@ -126,6 +126,8 @@ https://developer.ibm.com/dwblog/2016/10-steps-train-chat-bot-chatbot-machine-le
 **Logs**
 - [Improve Your Chatbot using Watson Assistant Chat Logs](https://chatbotslife.com/improve-your-chatbot-using-watson-conversation-chat-logs-54a36b671261) - nice article showing you how to use the Assistant chat logs to provide feedback on chatbot performance and operations, and use that information to improve your chatbot.
 - [I love Pandas!](https://sodoherty.ai/2017/04/19/i-love-pandas/#comment-765) - quick but informative blog post on how to use the Python pandas library to analyze your Assistant logs.
+- [Improve your Premium Development Instance with Intent Recommendations](https://github.ibm.com/pratyushsingh/Logs-Retrieval-Watson-Assistant) - Customers using a premium instance of Watson Assistant will get pertinent data for their intent recommendations feature in their production environment. If however, they are using a separate premium instance, or “slot”, for lower development environments they will not be able to see those recommendations in the workspaces/skills on that slot. This script addresses that need to export and import those intent recommendations.  Developed by [Prat Singh](https://github.ibm.com/pratyushsingh).
+
 
 ## Discovery
 The Watson Discovery service helps you gather insights from large amounts of data, similar to the Retrieve and Rank service.  Discovery lets you upload your own enterprise data and then use its enrichment capabilities to understand the data and gather insights.  You can use Discovery in various use cases such as capturing insights from data as well as question/answer use cases where the corpus consists of a large number of documents and the objective is to find the most relevant answers to a query.
