@@ -107,7 +107,7 @@ Once intents and entities are defined in the Assistant service, it is the third 
 
 **Code**
 - [Watson Assistant API Reference](https://www.ibm.com/watson/developercloud/assistant/api/v1) - The API reference page.
-- [Introducing Version Control in Watson Assistant](https://medium.com/ibm-watson/watson-assistant-versions-announcement-d60869b1f5f) - the announcement of the ability to create versions of your Watson Assistant skills, with a nice explanation of how it works. 
+- [How to Use Watson Assistant with Webhooks](https://www.youtube.com/watch?v=5z3i5IsBVnk&feature=youtu.be) - great video that covers using Webhooks with Watson Assistant and IBM Cloud Functions.  [Morgan Langlais](https://github.com/modlanglais) also shares some code with you out on GitHub in her [Webhook demo](https://github.com/modlanglais/assistant-webhook-demo) project. 
 - [Simple Conversation App](https://github.com/watson-developer-cloud/conversation-simple) - A simple sample Node.js app that uses Watson Assistant to power to car dashboard.
 - [10 Steps to Train a Chatbot and its Machine Learning Models to Maximize Performance](
 https://developer.ibm.com/dwblog/2016/10-steps-train-chat-bot-chatbot-machine-learning/) - this outlines the methodology for training chatbots and the associated machine learning models to maximize performance. Although presented in the context of chatbots due to their high popularity, the methodology applies to all cognitive solutions, not just chatbots.
@@ -116,6 +116,7 @@ https://developer.ibm.com/dwblog/2016/10-steps-train-chat-bot-chatbot-machine-le
 - [Building Cognitive Applications with IBM Watson Services: Volume 2](http://www.redbooks.ibm.com/redpieces/pdfs/sg248394.pdf) - this is an IBM Redbook that shows some different use cases with the Assistant service.  It's long, at 248 pages, but has good detailed examples of different use cases.
 - [Watson Assistant Slots Demo](https://github.com/randyhaven/watson-conversation-slots-intro) - a nice GitHub repository that will allow you to see how the Watson Assistant slots functionality works.  Also has directions in Japanese and Korean.
 - [Watson Community Assistant Examples](https://github.com/watson-developer-cloud/community/tree/master/watson-assistant) - we've got "mad skills" - with a whole pile of JSON files that provide Watson Assistant skills examples.  Justy import these JSON files as a new skill - and you can see techniques for doing more advanced magic with Watson Assistant dialogs.
+- [Introducing Version Control in Watson Assistant](https://medium.com/ibm-watson/watson-assistant-versions-announcement-d60869b1f5f) - the announcement of the ability to create versions of your Watson Assistant skills, with a nice explanation of how it works. 
 
 **Testing**
 - [Testing Strategies for Chatbots (Part 1)— Testing Their Classifiers](https://medium.com/ibm-watson/testing-strategies-for-chatbots-part-1-testing-their-classifiers-20becaf5f211) - make sure that you are testing your intents and classifiers adequately.  Andrew Freed has some good approaches to doing testing in this area.
