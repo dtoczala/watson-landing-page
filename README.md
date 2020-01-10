@@ -30,6 +30,8 @@ Cognitive computing can be complex, but we're here to help you make sense of it.
   - [Testing Approaches and Methods](https://github.com/dtoczala/watson-landing-page#testing-approaches-and-methods)
   - [Watson/IBM Cloud Security Concerns](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#watsonibm-cloud-security-concerns)
 - **[Code Development Resources and GitHub Repositories](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#code-development-resources-and-github-repositories)**
+  - [Development Resources](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#development-resources)
+  - [Learning and Training](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#learning-and-training)
 - **[Common Tips and Tricks](https://github.com/dtoczala/watson-landing-page#common-tips-and-tricks)**
   - [IBM Cloud Tips and Tricks](docs/ibm_cloud_tipstricks.md)
   - [Staying Aware of Watson and Cloud Best Practices](https://github.com/dtoczala/watson-landing-page/blob/master/README.md#staying-aware-of-watson-and-cloud-best-practices)
