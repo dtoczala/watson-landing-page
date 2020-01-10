@@ -46,7 +46,7 @@ The Watson Developer Cloud (WDC) is a collection of cogntive services hosted on 
 
 ### References for Further Reading
 - [IBM Cloud Account Setup](https://cloud.ibm.com/docs/account?topic=account-account_setup#account_setup) - A simple set of guidelines for getting started.
-- **[Watson Developer Tools](https://www.ibm.com/watson/developercloud/developer-tools.html)** - a nice landing page with links to Application Starter Kits (ASK's), SDKs, documentation, blogs and videos.
+- **[Getting Started Right on the IBM Cloud](https://dtoczala.wordpress.com/2018/09/20/getting-started-right-on-the-ibm-cloud/)** - A blog post that covers a lot of the things that you need to know before getting your corporate account all set up and ready to deploy your first applications.
 - [A Beginner's Guide to Artificial Intelligence, Machine Learning, and Cognitive Computing](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html) - nothing Watson specific here, just a high level review of the history of AI, and introduction to some of the basic concepts of AI.
 - [Cloud Architecture Center](https://www.ibm.com/devops/method/category/architectures?cm_mc_uid=59482719098114889125842&cm_mc_sid_50200000=1488912584) - basic architecture concepts and patterns for Cloud and Cognitive development.
 - [Watson Cognitive Developer Certification Study Guide](https://github.com/havasnewyork/IBM-Watson-Developer-Certification-Study-Guide) - a nice guide on GitHub with a nice background on core cognitive principles and concepts.
