@@ -413,7 +413,7 @@ There are some very real security implications that you will have to consider wh
 # Code, Development Resources, and GitHub Repositories
 This section has a list of great places where you can see working code, find development resources, or GitHub repositories with useful content.
 
-- [Application Starter Kits (ASKs)](https://www.ibm.com/watson/developercloud/starter-kits.html) - great collection of common use cases, and code to go with them, which you can use and deploy on the IBM Cloud to see how things work for yourself.
+## Development Resources
 - [Watson Developer Cloud (GitHub)](https://github.com/watson-developer-cloud) - this GitHub repository has commonly used SDK's (software development kits) and code for some interesting demos.  Some of the SDK's included here are listed below, but you should check this site for other less common SDKs as well.
   - [.NET SDK](https://github.com/watson-developer-cloud/dotnet-standard-sdk)
   - [Python SDK](https://github.com/watson-developer-cloud/python-sdk)
@@ -422,6 +422,15 @@ This section has a list of great places where you can see working code, find dev
   - [Swift SDK](https://github.com/watson-developer-cloud/swift-sdk)
   - [Java SDK](https://github.com/watson-developer-cloud/java-sdk)
   - [Android SDK](https://github.com/watson-developer-cloud/android-sdk)
+- [Code Patterns](https://developer.ibm.com/patterns/) - a series of different code patterns and full solutions to some common problems and use case.  often spans a few different technologies, so this can be a good place to see integrations in action.
+
+## Learning and Training
+This section will share a few different learning environments and approaches.  I am always interested in hearing feedback from real people who took any of these courses, indicating how useful and effective they are.
+
+### Coursera 
+- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone/home/) - a "starter course" suitable for technical and non-technical people.
+- [IBM Applied AI Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai#faq) - a certificate granting set of courses which will walk you through the basics of building out an AI solution using the Watson services, Python, and OpenCV.
+- [AI Engineer Certificate](https://www.coursera.org/professional-certificates/ai-engineer#about) - another set of  certificate granting courses, but these focus on machine learning.  You'll use Python in conjunction with Spark, Keras, PyTorch, and TensorFlow.  Much more "in depth" than the Watson focused certificate - with a focus on Machine Learning.
 
 ---
 # Common Tips and Tricks
